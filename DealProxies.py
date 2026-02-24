@@ -13,6 +13,7 @@ import time
 import requests
 import yaml
 from datetime import datetime, timezone
+import pytz
 
 # ────────────────────────────────────────────
 # ★ 在此处填写你的 txt 直链
@@ -109,7 +110,8 @@ def generate_yaml(proxies_raw: list[dict]) -> str:
             "udp":    True,
         })
 
-    now_cst = datetime.now(timezone.cst).strftime("%Y-%m-%d %H:%M CST")
+    cst_time = pytz.timezone('Asia/Shanghai')
+    now_cst = datetime.now(cst_time).strftime("%Y-%m-%d %H:%M CST")
     header  = (
         f"# Clash Meta Proxies\n"
         f"# Auto-generated at {now_cst}\n"
