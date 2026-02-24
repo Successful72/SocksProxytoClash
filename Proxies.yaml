@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-25 04:46 CST
+# Auto-generated at 2026-02-25 05:43 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-德国纽伦堡-202602250530
+  type: socks5
+  server: 168.119.232.8
+  port: 1080
+  udp: true
+- name: 免费-印度Raghunathganj-202602250528
+  type: socks5
+  server: 203.57.85.190
+  port: 443
+  udp: true
+- name: 免费-也门萨那-202602250502
+  type: socks5
+  server: 46.35.67.246
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦喀山-202602250500
+  type: socks5
+  server: 37.232.239.5
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦切博克萨雷-202602250500
+  type: socks5
+  server: 37.232.216.0
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202602250443
+  type: socks5
+  server: 81.29.146.182
+  port: 1080
+  udp: true
 - name: 免费-台湾苗栗-202602250438
   type: socks5
   server: 114.35.9.239
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 217.26.31.149
   port: 1080
-  udp: true
-- name: 免费-乌克兰利沃夫-202602241855
-  type: socks5
-  server: 5.199.239.26
-  port: 1080
-  udp: true
-- name: 免费-香港香港-202602241838
-  type: socks5
-  server: 47.83.199.137
-  port: 58367
-  udp: true
-- name: 免费-香港葵涌-202602241838
-  type: socks5
-  server: 156.255.90.27
-  port: 58367
-  udp: true
-- name: 免费-香港葵涌-202602241838-01
-  type: socks5
-  server: 156.254.114.175
-  port: 58367
-  udp: true
-- name: 免费-香港葵涌-202602241837
-  type: socks5
-  server: 156.254.114.47
-  port: 58367
-  udp: true
-- name: 免费-新加坡新加坡-202602241837
-  type: socks5
-  server: 124.243.151.58
-  port: 50161
   udp: true
