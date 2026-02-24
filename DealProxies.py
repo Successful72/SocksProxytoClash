@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 """
 generate_clash.py
-从 txt 直链拉取 socks5 代理列表，查询 IP 地理位置（中文），
-生成 Clash Meta 可识别的 proxies YAML 配置文件。
+从 txt 直链拉取 socks5 代理列表，查询 IP 地理位置（中文），生成 Clash Meta 可识别的 proxies YAML 配置文件。
 
-代理命名格式：免费-<中文地理位置>-<YYYYMMDDHHmm>
-示例：免费-美国纽约-202602241410
 """
-pip install pytz
-
 import re
 import time
 import requests
