@@ -41,7 +41,7 @@ jobs:
           git push
 
       - name: Clean up old workflow records
-        run: python .github/scripts/clean_workflow_records.py
+        run: python .github/scripts/CleanWorkflowRecords.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
