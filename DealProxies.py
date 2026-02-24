@@ -12,15 +12,15 @@ from datetime import datetime, timezone
 import pytz
 
 # ────────────────────────────────────────────
-# ★ 在此处填写你的 txt 直链
+# Socks5代理文件直链
 PROXY_LIST_URL = "https://raw.githubusercontent.com/watchttvv/free-proxy-list/refs/heads/main/proxy.txt"
-# ★ 输出文件路径（相对于仓库根目录）
+# 输出文件路径（相对于仓库根目录）
 OUTPUT_FILE    = "Proxies.yaml"
 # ────────────────────────────────────────────
 
-# lang=zh-CN 让 ip-api.com 直接返回中文地名
+# IP归属地
 GEO_API   = "http://ip-api.com/json/{ip}?fields=country,city,status&lang=zh-CN"
-GEO_CACHE: dict[str, str] = {}   # IP → 中文地名缓存
+GEO_CACHE: dict[str, str] = {}   # IP归属地缓存
 
 
 def fetch_proxy_list(url: str) -> str:
@@ -54,7 +54,7 @@ def parse_proxies(text: str) -> list[dict]:
 
 def get_geo(ip: str) -> str:
     """
-    查询 IP 归属地（中文），返回如 "美国纽约" 的字符串。
+    查询 IP 归属地，返回如 "美国纽约" 的字符串。
     ip-api.com 免费限额 45 req/min，每次查询后等待 1.4 秒。
     """
     if ip in GEO_CACHE:
@@ -78,7 +78,6 @@ def get_geo(ip: str) -> str:
 def fmt_timestamp(ts: str) -> str:
     """
     将 "YYYY-MM-DD HH:MM" 转换为 "YYYYMMDDHHmm"。
-    例：2026-02-24 14:10  →  202602241410
     """
     dt = datetime.strptime(ts, "%Y-%m-%d %H:%M")
     return dt.strftime("%Y%m%d%H%M")
