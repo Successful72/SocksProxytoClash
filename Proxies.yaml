@@ -1,155 +1,155 @@
 # Clash Meta Proxies
-# Auto-generated at 2026-02-24 07:08 UTC
+# Auto-generated at 2026-02-24 15:53 CST
 # Total: 30 proxies
 
 proxies:
-- name: geo-美国-昆西-14:10
+- name: 免费-俄罗斯联邦莫斯科-202602241539
+  type: socks5
+  server: 88.210.34.8
+  port: 10888
+  udp: true
+- name: 免费-柬埔寨金边-202602241503
+  type: socks5
+  server: 202.62.55.163
+  port: 1080
+  udp: true
+- name: 免费-美国昆西-202602241410
   type: socks5
   server: 74.179.84.102
   port: 1080
   udp: true
-- name: geo-香港-SanPoKong-13:51
+- name: 免费-香港San Po Kong-202602241351
   type: socks5
   server: 103.243.26.195
   port: 1080
   udp: true
-- name: geo-俄罗斯联邦-Atemar-13:25
+- name: 免费-俄罗斯联邦Atemar-202602241325
   type: socks5
   server: 178.45.31.116
   port: 1080
   udp: true
-- name: geo-俄罗斯联邦-Atemar-13:24
+- name: 免费-俄罗斯联邦Atemar-202602241324
   type: socks5
   server: 178.45.28.147
   port: 1080
   udp: true
-- name: geo-俄罗斯联邦-海参崴-12:56
+- name: 免费-俄罗斯联邦海参崴-202602241256
   type: socks5
   server: 95.154.85.56
   port: 1080
   udp: true
-- name: geo-美国-ValleyStream-12:37
+- name: 免费-美国Valley Stream-202602241237
   type: socks5
   server: 185.23.19.149
   port: 443
   udp: true
-- name: geo-法国-Saint-Alban-Leysse-12:09
+- name: 免费-法国Saint-Alban-Leysse-202602241209
   type: socks5
   server: 176.136.138.85
   port: 1080
   udp: true
-- name: geo-德国-FrankfurtamMain-12:06
+- name: 免费-德国Frankfurt am Main-202602241206
   type: socks5
   server: 35.156.119.48
   port: 1080
   udp: true
-- name: geo-俄罗斯联邦-恰帕耶夫斯克-12:01
+- name: 免费-俄罗斯联邦恰帕耶夫斯克-202602241201
   type: socks5
   server: 109.69.63.251
   port: 1080
   udp: true
-- name: geo-美国-孟菲斯-11:19
+- name: 免费-美国孟菲斯-202602241119
   type: socks5
   server: 76.198.179.182
   port: 1080
   udp: true
-- name: geo-德意志联邦共和国-FrankfurtAmMain-09:55
+- name: 免费-德意志联邦共和国Frankfurt Am Main-202602240955
   type: socks5
   server: 91.107.189.95
   port: 1080
   udp: true
-- name: geo-孟加拉国-Narsingdi-09:11
+- name: 免费-孟加拉国Narsingdi-202602240911
   type: socks5
   server: 103.180.112.65
   port: 1080
   udp: true
-- name: geo-巴基斯坦-伊斯兰堡-08:52
+- name: 免费-巴基斯坦伊斯兰堡-202602240852
   type: socks5
   server: 103.152.254.195
   port: 1080
   udp: true
-- name: geo-孟加拉国-达卡-08:41
+- name: 免费-孟加拉国达卡-202602240841
   type: socks5
   server: 114.130.175.146
   port: 1088
   udp: true
-- name: geo-加拿大-蒙特利尔-07:44
+- name: 免费-加拿大蒙特利尔-202602240744
   type: socks5
   server: 151.145.52.13
   port: 443
   udp: true
-- name: geo-新加坡-新加坡-07:33
+- name: 免费-新加坡新加坡-202602240733
   type: socks5
   server: 47.237.175.109
   port: 443
   udp: true
-- name: geo-荷兰-阿姆斯特丹-07:01
+- name: 免费-荷兰阿姆斯特丹-202602240701
   type: socks5
   server: 5.129.230.96
   port: 1080
   udp: true
-- name: geo-阿根廷-科尔多瓦-06:44
+- name: 免费-阿根廷科尔多瓦-202602240644
   type: socks5
   server: 181.6.78.212
   port: 1080
   udp: true
-- name: geo-阿根廷-SanJusto-06:44
+- name: 免费-阿根廷San Justo-202602240644
   type: socks5
   server: 181.6.79.13
   port: 1080
   udp: true
-- name: geo-阿根廷-布宜诺斯艾利斯-06:44
+- name: 免费-阿根廷布宜诺斯艾利斯-202602240644
   type: socks5
   server: 181.6.118.72
   port: 1080
   udp: true
-- name: geo-阿根廷-布宜诺斯艾利斯-06:44-01
+- name: 免费-阿根廷布宜诺斯艾利斯-202602240644-01
   type: socks5
   server: 181.6.58.234
   port: 1080
   udp: true
-- name: geo-法国-Lauterbourg-06:13
+- name: 免费-法国Lauterbourg-202602240613
   type: socks5
   server: 173.249.12.152
   port: 1080
   udp: true
-- name: geo-美国-堪薩斯城-05:22
+- name: 免费-美国堪薩斯城-202602240522
   type: socks5
   server: 74.208.77.214
   port: 8080
   udp: true
-- name: geo-中国-成都-05:14
+- name: 免费-中国成都-202602240514
   type: socks5
   server: 43.136.130.9
   port: 1080
   udp: true
-- name: geo-法国-Lauterbourg-04:56
+- name: 免费-法国Lauterbourg-202602240456
   type: socks5
   server: 185.202.236.78
   port: 1080
   udp: true
-- name: geo-荷兰-阿姆斯特丹-04:53
+- name: 免费-荷兰阿姆斯特丹-202602240453
   type: socks5
   server: 212.34.135.86
   port: 5001
   udp: true
-- name: geo-法国-Lauterbourg-04:49
+- name: 免费-法国Lauterbourg-202602240449
   type: socks5
   server: 95.111.248.154
   port: 1080
   udp: true
-- name: geo-SouthKorea-首尔特别市-04:17
+- name: 免费-South Korea首尔特别市-202602240417
   type: socks5
   server: 34.50.41.78
   port: 8888
-  udp: true
-- name: geo-美国-ElkGroveVillage-03:53
-  type: socks5
-  server: 104.207.139.62
-  port: 1080
-  udp: true
-- name: geo-香港-香港-03:08
-  type: socks5
-  server: 156.226.16.122
-  port: 10001
   udp: true
