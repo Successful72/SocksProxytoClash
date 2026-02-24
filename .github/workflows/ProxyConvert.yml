@@ -36,5 +36,5 @@ jobs:
           git add Proxies.yaml
           # 只有文件真正变化时才提交
           git diff --cached --quiet || \
-            git commit -m "chore: update clash proxies [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git commit -m "chore: update clash proxies [$(date -u '+%Y-%m-%d %H:%M CST')]"
           git push
