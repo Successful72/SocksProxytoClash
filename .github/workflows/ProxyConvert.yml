@@ -8,6 +8,10 @@ on:
   # 允许在 GitHub Actions 页面手动触发
   workflow_dispatch:
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
   update:
     runs-on: ubuntu-latest
