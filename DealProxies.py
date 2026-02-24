@@ -7,6 +7,7 @@ generate_clash.py
 代理命名格式：免费-<中文地理位置>-<YYYYMMDDHHmm>
 示例：免费-美国纽约-202602241410
 """
+pip install pytz
 
 import re
 import time
