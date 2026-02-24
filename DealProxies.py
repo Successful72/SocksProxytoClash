@@ -18,7 +18,7 @@ PROXY_LIST_URL = "https://raw.githubusercontent.com/watchttvv/free-proxy-list/re
 OUTPUT_FILE    = "Proxies.yaml"
 # ────────────────────────────────────────────
 
-GEO_API   = "http://ip-api.com/json/{ip}?fields=country,city,status"
+GEO_API   = "http://ip-api.com/json/{ip}?fields=country,city,status&lang=zh-CN"
 GEO_CACHE = {}   # IP → "Country-City" 缓存，避免重复查询
 
 
@@ -79,7 +79,7 @@ def build_clash_proxy(proxy: dict, index: int) -> dict:
     """
     geo  = get_geo(proxy["server"])
     hhmm = proxy["timestamp"].split(" ")[-1]   # 只取 "HH:MM"
-    name = f"geo-{geo}-{hhmm}"
+    name = f"geo-{geo}-{yyyymmddhhmm}"
 
     # 保证名称唯一（同地区同时间戳时加序号）
     if index > 0:
