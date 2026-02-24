@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-24 19:46 CST
+# Auto-generated at 2026-02-24 21:23 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-俄罗斯联邦莫斯科-202602242116
+  type: socks5
+  server: 95.181.230.166
+  port: 1080
+  udp: true
+- name: 免费-伊朗Tehran-202602242115
+  type: socks5
+  server: 5.160.116.62
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦雅罗斯拉夫尔-202602242054
+  type: socks5
+  server: 80.92.31.60
+  port: 2080
+  udp: true
+- name: 免费-法国巴黎-202602242051
+  type: socks5
+  server: 52.47.208.252
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦圣彼得堡-202602242018
+  type: socks5
+  server: 31.128.41.125
+  port: 1080
+  udp: true
+- name: 免费-法国鲁贝-202602241943
+  type: socks5
+  server: 51.91.157.219
+  port: 1080
+  udp: true
 - name: 免费-意大利Milan-202602241922
   type: socks5
   server: 95.236.167.95
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 35.156.119.48
   port: 1080
-  udp: true
-- name: 免费-俄罗斯联邦恰帕耶夫斯克-202602241201
-  type: socks5
-  server: 109.69.63.251
-  port: 1080
-  udp: true
-- name: 免费-美国孟菲斯-202602241119
-  type: socks5
-  server: 76.198.179.182
-  port: 1080
-  udp: true
-- name: 免费-德意志联邦共和国Frankfurt Am Main-202602240955
-  type: socks5
-  server: 91.107.189.95
-  port: 1080
-  udp: true
-- name: 免费-孟加拉国Narsingdi-202602240911
-  type: socks5
-  server: 103.180.112.65
-  port: 1080
-  udp: true
-- name: 免费-巴基斯坦伊斯兰堡-202602240852
-  type: socks5
-  server: 103.152.254.195
-  port: 1080
-  udp: true
-- name: 免费-孟加拉国达卡-202602240841
-  type: socks5
-  server: 114.130.175.146
-  port: 1088
   udp: true
