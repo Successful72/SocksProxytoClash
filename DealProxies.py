@@ -109,7 +109,7 @@ def generate_yaml(proxies_raw: list[dict]) -> str:
     cst_time = pytz.timezone('Asia/Shanghai')
     now_cst = datetime.now(cst_time).strftime("%Y-%m-%d %H:%M CST")
     header  = (
-        f"# Clash Meta Proxies\n"
+        f"# Clash Meta Free Socks5 Proxies\n"
         f"# Auto-generated at {now_cst}\n"
         f"# Total: {len(clash_proxies)} proxies\n\n"
     )
