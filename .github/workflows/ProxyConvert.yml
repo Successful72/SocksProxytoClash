@@ -1,1 +1,40 @@
 # 工作流配置
+name: Update Clash Proxies
+
+on:
+  schedule:
+    # 每小时整点触发（UTC）
+    - cron: "0 * * * *"
+  # 允许在 GitHub Actions 页面手动触发
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允许推送回仓库
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run generator script
+        run: python DealProxies.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add clash_proxies.yaml
+          # 只有文件真正变化时才提交
+          git diff --cached --quiet || \
+            git commit -m "chore: update clash proxies [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
