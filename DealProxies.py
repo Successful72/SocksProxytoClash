@@ -16,9 +16,9 @@ from datetime import datetime, timezone
 
 # ────────────────────────────────────────────
 # ★ 在此处填写你的 txt 直链
-PROXY_LIST_URL = "https://your-proxy-list-url.example.com/proxies.txt"
+PROXY_LIST_URL = "https://raw.githubusercontent.com/watchttvv/free-proxy-list/refs/heads/main/proxy.txt"
 # ★ 输出文件路径（相对于仓库根目录）
-OUTPUT_FILE    = "clash_proxies.yaml"
+OUTPUT_FILE    = "Proxies.yaml"
 # ────────────────────────────────────────────
 
 # lang=zh-CN 让 ip-api.com 直接返回中文地名
@@ -109,10 +109,10 @@ def generate_yaml(proxies_raw: list[dict]) -> str:
             "udp":    True,
         })
 
-    now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    now_cst = datetime.now(timezone.cst).strftime("%Y-%m-%d %H:%M CST")
     header  = (
         f"# Clash Meta Proxies\n"
-        f"# Auto-generated at {now_utc}\n"
+        f"# Auto-generated at {now_cst}\n"
         f"# Total: {len(clash_proxies)} proxies\n\n"
     )
     body = yaml.dump(
