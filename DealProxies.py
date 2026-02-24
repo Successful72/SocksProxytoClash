@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 # ★ 在此处填写你的 txt 直链
 PROXY_LIST_URL = "https://raw.githubusercontent.com/watchttvv/free-proxy-list/refs/heads/main/proxy.txt"
 # ★ 输出文件路径（相对于仓库根目录）
-OUTPUT_FILE    = "proxies.yaml"
+OUTPUT_FILE    = "Proxies.yaml"
 # ────────────────────────────────────────────
 
 GEO_API   = "http://ip-api.com/json/{ip}?fields=country,city,status"
