@@ -5,18 +5,20 @@ on:
   schedule:
     # 每小时整点触发（UTC）
     - cron: "0 * * * *"
-  # 允许在 GitHub Actions 页面手动触发
   workflow_dispatch:
 
+# ⚠️ 注意：这里的 permissions 只影响 GITHUB_TOKEN
+# 清理步骤我们不会再用它
 permissions:
-  actions: write
   contents: read
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write   # 允许推送回仓库
+      contents: write   # 用于 push
+      actions: read     # 只读即可
 
     steps:
       - name: Checkout repository
@@ -39,16 +41,23 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add Proxies.yaml
-          # 只有文件真正变化时才提交
           git diff --cached --quiet || \
             git commit -m "chore: update clash proxies [${CURRENT_TIME} CST]"
           git push
 
+      # ===== 核心新增：生成 GitHub App token =====
+      - name: Generate GitHub App token
+        id: app-token
+        uses: tibdex/github-app-token@v2
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      # ===== 使用 App token 清理 workflow runs =====
       - name: Clean up old workflow records
         run: python .github/scripts/CleanWorkflowRecords.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          WORKFLOW_NAME: "Update Clash Proxies"  # 要清理的工作流名称
-          KEEP_COUNT: 3  # 保留的记录数
+          WORKFLOW_NAME: "Update Clash Proxies"
+          KEEP_COUNT: 3
