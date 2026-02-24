@@ -7,8 +7,7 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
-# ⚠️ 注意：这里的 permissions 只影响 GITHUB_TOKEN
-# 清理步骤我们不会再用它
+# 这里的 permissions 只影响 GITHUB_TOKEN，清理步骤不会再用它
 permissions:
   contents: read
 
@@ -45,7 +44,8 @@ jobs:
             git commit -m "chore: update clash proxies [${CURRENT_TIME} CST]"
           git push
 
-      # ===== 核心新增：生成 GitHub App token =====
+      # 清理Workflow Runs记录
+      # 生成GitHub App token
       - name: Generate GitHub App token
         id: app-token
         uses: tibdex/github-app-token@v2
@@ -53,7 +53,7 @@ jobs:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
 
-      # ===== 使用 App token 清理 workflow runs =====
+      # 使用App token 清理 Workflow Runs
       - name: Clean up old workflow records
         run: python .github/scripts/CleanWorkflowRecords.py
         env:
