@@ -43,6 +43,7 @@ jobs:
       - name: Clean up old workflow records
         run: python .github/scripts/CleanWorkflowRecords.py
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           WORKFLOW_NAME: "Update Clash Proxies"  # 要清理的工作流名称
