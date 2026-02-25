@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-26 04:43 CST
+# Auto-generated at 2026-02-26 05:41 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-英国Slough-202602260539
+  type: socks5
+  server: 167.99.192.7
+  port: 1080
+  udp: true
+- name: 免费-越南河內市-202602260525
+  type: socks5
+  server: 117.5.254.138
+  port: 5000
+  udp: true
+- name: 免费-越南河內市-202602260525-01
+  type: socks5
+  server: 117.5.252.126
+  port: 5000
+  udp: true
+- name: 免费-越南河內市-202602260525-02
+  type: socks5
+  server: 117.5.241.3
+  port: 5000
+  udp: true
+- name: 免费-越南河內市-202602260524
+  type: socks5
+  server: 117.5.255.243
+  port: 5000
+  udp: true
+- name: 免费-越南河內市-202602260524-01
+  type: socks5
+  server: 117.5.253.44
+  port: 5000
+  udp: true
 - name: 免费-美国康瑟尔布拉夫斯-202602260429
   type: socks5
   server: 34.42.122.248
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 194.146.223.211
   port: 1080
-  udp: true
-- name: 免费-美国水牛城-202602251210
-  type: socks5
-  server: 104.219.236.127
-  port: 1080
-  udp: true
-- name: 免费-爱沙尼亚約赫維-202602251140
-  type: socks5
-  server: 5.45.112.10
-  port: 1080
-  udp: true
-- name: 免费-瑞典斯德哥尔摩-202602251128
-  type: socks5
-  server: 213.21.233.242
-  port: 1080
-  udp: true
-- name: 免费-美国達拉斯-202602251110
-  type: socks5
-  server: 155.94.172.220
-  port: 1080
-  udp: true
-- name: 免费-孟加拉国达卡-202602250837
-  type: socks5
-  server: 202.40.190.74
-  port: 1080
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202602250749
-  type: socks5
-  server: 23.94.107.26
-  port: 5050
   udp: true
