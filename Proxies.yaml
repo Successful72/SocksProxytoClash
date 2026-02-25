@@ -1,8 +1,43 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-25 19:47 CST
+# Auto-generated at 2026-02-25 21:23 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-中国成都-202602252103
+  type: socks5
+  server: 112.193.99.70
+  port: 1080
+  udp: true
+- name: 免费-荷兰阿姆斯特丹-202602252102
+  type: socks5
+  server: 147.45.171.170
+  port: 443
+  udp: true
+- name: 免费-德国法兰克福-202602252054
+  type: socks5
+  server: 147.45.216.49
+  port: 8080
+  udp: true
+- name: 免费-美国水牛城-202602252052
+  type: socks5
+  server: 107.174.64.118
+  port: 10000
+  udp: true
+- name: 免费-荷兰阿姆斯特丹-202602252051
+  type: socks5
+  server: 147.45.139.18
+  port: 1080
+  udp: true
+- name: 免费-美国Ashburn-202602252004
+  type: socks5
+  server: 13.220.79.212
+  port: 40000
+  udp: true
+- name: 免费-荷兰阿森-202602251956
+  type: socks5
+  server: 194.124.211.132
+  port: 1080
+  udp: true
 - name: 免费-芬兰赫尔辛基-202602251921
   type: socks5
   server: 109.120.184.9
@@ -116,40 +151,5 @@ proxies:
 - name: 免费-印度尼西亚茂物-202602251351
   type: socks5
   server: 103.127.138.115
-  port: 1080
-  udp: true
-- name: 免费-法国巴黎-202602251315
-  type: socks5
-  server: 95.182.97.43
-  port: 443
-  udp: true
-- name: 免费-白俄罗斯Kolodishchi-202602251215
-  type: socks5
-  server: 45.128.205.32
-  port: 1080
-  udp: true
-- name: 免费-西班牙马德里-202602251213
-  type: socks5
-  server: 194.146.223.211
-  port: 1080
-  udp: true
-- name: 免费-美国水牛城-202602251210
-  type: socks5
-  server: 104.219.236.127
-  port: 1080
-  udp: true
-- name: 免费-法国巴黎-202602251207
-  type: socks5
-  server: 37.59.249.78
-  port: 1080
-  udp: true
-- name: 免费-爱沙尼亚約赫維-202602251140
-  type: socks5
-  server: 5.45.112.10
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯联邦Sredneuralsk-202602251136
-  type: socks5
-  server: 178.213.200.122
   port: 1080
   udp: true
