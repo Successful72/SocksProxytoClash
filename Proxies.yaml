@@ -1,8 +1,43 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-25 15:57 CST
+# Auto-generated at 2026-02-25 17:01 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-美国康瑟尔布拉夫斯-202602251645
+  type: socks5
+  server: 35.232.234.68
+  port: 1080
+  udp: true
+- name: 免费-荷兰Eygelshoven-202602251624
+  type: socks5
+  server: 193.17.95.210
+  port: 1080
+  udp: true
+- name: 免费-美国聖荷西-202602251614
+  type: socks5
+  server: 54.215.204.60
+  port: 1080
+  udp: true
+- name: 免费-荷兰哈勒姆-202602251613
+  type: socks5
+  server: 213.111.146.81
+  port: 8888
+  udp: true
+- name: 免费-荷兰哈勒姆-202602251613-01
+  type: socks5
+  server: 213.111.146.71
+  port: 8888
+  udp: true
+- name: 免费-荷兰哈勒姆-202602251613-02
+  type: socks5
+  server: 213.111.146.68
+  port: 8888
+  udp: true
+- name: 免费-缅甸仰光-202602251555
+  type: socks5
+  server: 123.253.21.217
+  port: 1080
+  udp: true
 - name: 免费-俄罗斯联邦Yekaterinburg-202602251536
   type: socks5
   server: 94.190.46.165
@@ -116,40 +151,5 @@ proxies:
 - name: 免费-孟加拉国达卡-202602250837
   type: socks5
   server: 202.40.190.74
-  port: 1080
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202602250749
-  type: socks5
-  server: 23.94.107.26
-  port: 5050
-  udp: true
-- name: 免费-韩国Goyang-si-202602250700
-  type: socks5
-  server: 1.225.116.115
-  port: 1080
-  udp: true
-- name: 免费-中国沈阳市-202602250640
-  type: socks5
-  server: 36.129.19.15
-  port: 1080
-  udp: true
-- name: 免费-美国費利蒙-202602250619
-  type: socks5
-  server: 45.62.98.13
-  port: 1080
-  udp: true
-- name: 免费-美国罗克斯普林-202602250548
-  type: socks5
-  server: 139.60.57.39
-  port: 1080
-  udp: true
-- name: 免费-英国倫敦金融城-202602250542
-  type: socks5
-  server: 51.38.74.125
-  port: 1080
-  udp: true
-- name: 免费-德国纽伦堡-202602250530
-  type: socks5
-  server: 168.119.232.8
   port: 1080
   udp: true
