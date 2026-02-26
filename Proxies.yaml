@@ -1,8 +1,58 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-26 12:57 CST
+# Auto-generated at 2026-02-26 14:04 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-也门萨那-202602261333
+  type: socks5
+  server: 89.189.76.174
+  port: 1080
+  udp: true
+- name: 免费-也门萨那-202602261332
+  type: socks5
+  server: 89.189.74.88
+  port: 1080
+  udp: true
+- name: 免费-也门萨那-202602261332-01
+  type: socks5
+  server: 89.189.76.231
+  port: 1080
+  udp: true
+- name: 免费-也门萨那-202602261331
+  type: socks5
+  server: 89.189.86.222
+  port: 1080
+  udp: true
+- name: 免费-也门萨那-202602261329
+  type: socks5
+  server: 89.189.76.230
+  port: 1080
+  udp: true
+- name: 免费-波兰华沙-202602261305
+  type: socks5
+  server: 95.214.52.191
+  port: 20000
+  udp: true
+- name: 免费-日本Chiyoda City-202602261248
+  type: socks5
+  server: 216.238.54.50
+  port: 50161
+  udp: true
+- name: 免费-美国水牛城-202602261248
+  type: socks5
+  server: 192.210.248.59
+  port: 50161
+  udp: true
+- name: 免费-美国Palatine-202602261248
+  type: socks5
+  server: 130.254.47.243
+  port: 50161
+  udp: true
+- name: 免费-美国水牛城-202602261248-01
+  type: socks5
+  server: 107.172.51.161
+  port: 50161
+  udp: true
 - name: 免费-德国法兰克福-202602261127
   type: socks5
   server: 136.244.92.145
@@ -102,54 +152,4 @@ proxies:
   type: socks5
   server: 34.42.122.248
   port: 1080
-  udp: true
-- name: 免费-香港LOHAS Park-202602260402
-  type: socks5
-  server: 85.234.73.99
-  port: 443
-  udp: true
-- name: 免费-波兰Izabelin C-202602260359
-  type: socks5
-  server: 185.238.207.81
-  port: 1080
-  udp: true
-- name: 免费-新加坡新加坡-202602260233
-  type: socks5
-  server: 54.254.152.240
-  port: 1080
-  udp: true
-- name: 免费-新加坡新加坡-202602260012
-  type: socks5
-  server: 194.233.68.54
-  port: 1088
-  udp: true
-- name: 免费-香港香港-202602252353
-  type: socks5
-  server: 166.88.77.65
-  port: 1080
-  udp: true
-- name: 免费-德国汉堡-202602252238
-  type: socks5
-  server: 135.125.175.107
-  port: 1080
-  udp: true
-- name: 免费-德国兰河畔林堡-202602252237
-  type: socks5
-  server: 135.125.191.106
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯希姆基-202602252131
-  type: socks5
-  server: 85.198.75.239
-  port: 2080
-  udp: true
-- name: 免费-中国成都-202602252103
-  type: socks5
-  server: 112.193.99.70
-  port: 1080
-  udp: true
-- name: 免费-美国水牛城-202602252052
-  type: socks5
-  server: 107.174.64.118
-  port: 10000
   udp: true
