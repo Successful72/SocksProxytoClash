@@ -1,8 +1,53 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-26 21:24 CST
+# Auto-generated at 2026-02-26 22:57 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-俄罗斯联邦莫斯科-202602262214
+  type: socks5
+  server: 80.76.42.134
+  port: 443
+  udp: true
+- name: 免费-美国阿什本-202602262213
+  type: socks5
+  server: 5.161.132.36
+  port: 5000
+  udp: true
+- name: 免费-俄罗斯联邦莫斯科-202602262211
+  type: socks5
+  server: 80.76.42.149
+  port: 443
+  udp: true
+- name: 免费-越南河內市-202602262200
+  type: socks5
+  server: 117.5.250.1
+  port: 5002
+  udp: true
+- name: 免费-越南河內市-202602262159
+  type: socks5
+  server: 117.5.250.168
+  port: 5000
+  udp: true
+- name: 免费-伊朗德黑兰-202602262155
+  type: socks5
+  server: 62.60.210.173
+  port: 1080
+  udp: true
+- name: 免费-伊朗Bāghestān-202602262154
+  type: socks5
+  server: 62.60.138.133
+  port: 1080
+  udp: true
+- name: 免费-意大利Arezzo-202602262148
+  type: socks5
+  server: 80.211.128.140
+  port: 1080
+  udp: true
+- name: 免费-哈萨克斯坦Karaganda-202602262148
+  type: socks5
+  server: 178.89.183.248
+  port: 8080
+  udp: true
 - name: 免费-哈萨克斯坦阿斯塔纳-202602262050
   type: socks5
   server: 185.242.85.19
@@ -106,50 +151,5 @@ proxies:
 - name: 免费-也门萨那-202602261332-01
   type: socks5
   server: 89.189.76.231
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202602261331
-  type: socks5
-  server: 89.189.86.222
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202602261329
-  type: socks5
-  server: 89.189.76.230
-  port: 1080
-  udp: true
-- name: 免费-波兰华沙-202602261305
-  type: socks5
-  server: 95.214.52.191
-  port: 20000
-  udp: true
-- name: 免费-日本Chiyoda City-202602261248
-  type: socks5
-  server: 216.238.54.50
-  port: 50161
-  udp: true
-- name: 免费-美国水牛城-202602261248
-  type: socks5
-  server: 192.210.248.59
-  port: 50161
-  udp: true
-- name: 免费-美国Palatine-202602261248
-  type: socks5
-  server: 130.254.47.243
-  port: 50161
-  udp: true
-- name: 免费-美国水牛城-202602261248-01
-  type: socks5
-  server: 107.172.51.161
-  port: 50161
-  udp: true
-- name: 免费-德国法兰克福-202602261127
-  type: socks5
-  server: 136.244.92.145
-  port: 443
-  udp: true
-- name: 免费-德国慕尼黑-202602261104
-  type: socks5
-  server: 46.114.135.102
   port: 1080
   udp: true
