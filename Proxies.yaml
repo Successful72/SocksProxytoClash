@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-26 07:36 CST
+# Auto-generated at 2026-02-26 10:42 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-台湾台北市-202602261028
+  type: socks5
+  server: 85.237.206.235
+  port: 50161
+  udp: true
+- name: 免费-美国達拉斯-202602260949
+  type: socks5
+  server: 194.62.166.244
+  port: 5002
+  udp: true
+- name: 免费-俄罗斯联邦圣彼得堡-202602260925
+  type: socks5
+  server: 185.246.90.163
+  port: 10808
+  udp: true
+- name: 免费-德意志联邦共和国Frankfurt Am Main-202602260925
+  type: socks5
+  server: 185.246.223.174
+  port: 1080
+  udp: true
+- name: 免费-美国奥格登-202602260842
+  type: socks5
+  server: 144.172.107.11
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦伊爾庫茨克-202602260831
+  type: socks5
+  server: 91.185.33.12
+  port: 1080
+  udp: true
 - name: 免费-德意志联邦共和国Frankfurt Am Main-202602260606
   type: socks5
   server: 87.251.77.60
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 109.120.184.9
   port: 443
-  udp: true
-- name: 免费-德国法兰克福-202602251844
-  type: socks5
-  server: 91.132.162.245
-  port: 1080
-  udp: true
-- name: 免费-奥地利維也納-202602251821
-  type: socks5
-  server: 185.211.103.26
-  port: 1080
-  udp: true
-- name: 免费-美国康瑟尔布拉夫斯-202602251645
-  type: socks5
-  server: 35.232.234.68
-  port: 1080
-  udp: true
-- name: 免费-荷兰Eygelshoven-202602251624
-  type: socks5
-  server: 193.17.95.210
-  port: 1080
-  udp: true
-- name: 免费-荷兰哈勒姆-202602251613
-  type: socks5
-  server: 213.111.146.81
-  port: 8888
-  udp: true
-- name: 免费-荷兰哈勒姆-202602251613-01
-  type: socks5
-  server: 213.111.146.71
-  port: 8888
   udp: true
