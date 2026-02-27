@@ -1,8 +1,58 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-27 10:41 CST
+# Auto-generated at 2026-02-27 12:51 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-荷兰阿姆斯特丹-202602271231
+  type: socks5
+  server: 104.128.135.55
+  port: 7777
+  udp: true
+- name: 免费-德意志联邦共和国Frankfurt Am Main-202602271227
+  type: socks5
+  server: 45.147.51.3
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦克斯托沃-202602271221
+  type: socks5
+  server: 109.184.220.246
+  port: 1080
+  udp: true
+- name: 免费-美国Teterboro-202602271205
+  type: socks5
+  server: 69.164.245.247
+  port: 1080
+  udp: true
+- name: 免费-美国達拉斯-202602271204
+  type: socks5
+  server: 194.62.166.244
+  port: 5002
+  udp: true
+- name: 免费-美国達拉斯-202602271204-01
+  type: socks5
+  server: 194.62.166.244
+  port: 5003
+  udp: true
+- name: 免费-美国達拉斯-202602271204-02
+  type: socks5
+  server: 194.62.166.244
+  port: 5001
+  udp: true
+- name: 免费-德国法兰克福-202602271116
+  type: socks5
+  server: 167.172.177.37
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯巴尔瑙尔-202602271114
+  type: socks5
+  server: 185.208.74.38
+  port: 1080
+  udp: true
+- name: 免费-柬埔寨金边-202602271105
+  type: socks5
+  server: 124.248.170.102
+  port: 1080
+  udp: true
 - name: 免费-荷兰阿姆斯特丹-202602271020
   type: socks5
   server: 150.241.89.171
@@ -102,54 +152,4 @@ proxies:
   type: socks5
   server: 222.131.220.234
   port: 10808
-  udp: true
-- name: 免费-中国广州市-202602270204
-  type: socks5
-  server: 14.29.69.244
-  port: 10888
-  udp: true
-- name: 免费-新加坡新加坡-202602270057
-  type: socks5
-  server: 43.134.142.243
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯联邦托木斯克-202602270027
-  type: socks5
-  server: 78.140.13.97
-  port: 10801
-  udp: true
-- name: 免费-俄罗斯联邦莫斯科-202602262214
-  type: socks5
-  server: 80.76.42.134
-  port: 443
-  udp: true
-- name: 免费-美国阿什本-202602262213
-  type: socks5
-  server: 5.161.132.36
-  port: 5000
-  udp: true
-- name: 免费-俄罗斯联邦莫斯科-202602262211
-  type: socks5
-  server: 80.76.42.149
-  port: 443
-  udp: true
-- name: 免费-伊朗德黑兰-202602262155
-  type: socks5
-  server: 62.60.210.173
-  port: 1080
-  udp: true
-- name: 免费-伊朗Bāghestān-202602262154
-  type: socks5
-  server: 62.60.138.133
-  port: 1080
-  udp: true
-- name: 免费-哈萨克斯坦Karaganda-202602262148
-  type: socks5
-  server: 178.89.183.248
-  port: 8080
-  udp: true
-- name: 免费-新加坡新加坡-202602262049
-  type: socks5
-  server: 160.187.131.108
-  port: 1080
   udp: true
