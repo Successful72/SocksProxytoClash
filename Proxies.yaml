@@ -1,8 +1,58 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-01 04:34 CST
+# Auto-generated at 2026-03-01 05:29 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-美国波特蘭-202603010512
+  type: socks5
+  server: 100.21.101.62
+  port: 6000
+  udp: true
+- name: 免费-美国波特蘭-202603010512-01
+  type: socks5
+  server: 100.21.180.161
+  port: 6000
+  udp: true
+- name: 免费-土耳其加濟安泰普-202603010442
+  type: socks5
+  server: 77.83.203.5
+  port: 443
+  udp: true
+- name: 免费-未知地区-202603010437
+  type: socks5
+  server: 77.83.203.6
+  port: 443
+  udp: true
+- name: 免费-越南胡志明市-202603010433
+  type: socks5
+  server: 171.233.29.34
+  port: 5000
+  udp: true
+- name: 免费-越南Quận Mười Một-202603010433
+  type: socks5
+  server: 171.233.80.49
+  port: 5000
+  udp: true
+- name: 免费-越南Quận Mười Một-202603010433-01
+  type: socks5
+  server: 171.233.82.123
+  port: 5000
+  udp: true
+- name: 免费-越南Quận Mười Một-202603010433-02
+  type: socks5
+  server: 171.233.80.188
+  port: 5000
+  udp: true
+- name: 免费-越南Quận Mười Một-202603010433-03
+  type: socks5
+  server: 171.233.82.126
+  port: 5000
+  udp: true
+- name: 免费-越南Quận Mười Một-202603010433-04
+  type: socks5
+  server: 171.233.81.3
+  port: 5000
+  udp: true
 - name: 免费-瑞士日内瓦-202603010408
   type: socks5
   server: 83.228.227.81
@@ -102,54 +152,4 @@ proxies:
   type: socks5
   server: 136.244.88.62
   port: 10001
-  udp: true
-- name: 免费-俄罗斯莫斯科-202602281233
-  type: socks5
-  server: 77.232.39.222
-  port: 9999
-  udp: true
-- name: 免费-美国The Dalles-202602281039
-  type: socks5
-  server: 35.212.217.57
-  port: 1080
-  udp: true
-- name: 免费-日本东京-202602280952
-  type: socks5
-  server: 103.75.118.84
-  port: 1080
-  udp: true
-- name: 免费-德国Falkenstein-202602280930
-  type: socks5
-  server: 148.251.123.10
-  port: 1080
-  udp: true
-- name: 免费-德国Falkenstein-202602280930-01
-  type: socks5
-  server: 148.251.88.242
-  port: 1080
-  udp: true
-- name: 免费-孟加拉国Narsingdi-202602280853
-  type: socks5
-  server: 103.180.112.65
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯莫斯科-202602280841
-  type: socks5
-  server: 83.234.87.145
-  port: 1080
-  udp: true
-- name: 免费-美国塔克維拉-202602280620
-  type: socks5
-  server: 173.0.60.68
-  port: 5004
-  udp: true
-- name: 免费-德国法兰克福-202602280404
-  type: socks5
-  server: 178.162.241.234
-  port: 8000
-  udp: true
-- name: 免费-日本东京-202602280340
-  type: socks5
-  server: 205.198.76.38
-  port: 1111
   udp: true
