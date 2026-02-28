@@ -1,8 +1,43 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-28 12:20 CST
+# Auto-generated at 2026-02-28 13:38 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-德国法兰克福-202602281314
+  type: socks5
+  server: 136.244.88.62
+  port: 10001
+  udp: true
+- name: 免费-俄罗斯莫斯科-202602281233
+  type: socks5
+  server: 77.232.39.222
+  port: 9999
+  udp: true
+- name: 免费-美国洛杉矶-202602281227
+  type: socks5
+  server: 204.194.54.68
+  port: 3128
+  udp: true
+- name: 免费-中国福州市-202602281221
+  type: socks5
+  server: 110.88.240.89
+  port: 10808
+  udp: true
+- name: 免费-俄罗斯莫斯科-202602281217
+  type: socks5
+  server: 185.155.19.77
+  port: 10808
+  udp: true
+- name: 免费-韩国首尔特别市-202602281210
+  type: socks5
+  server: 132.145.93.138
+  port: 1080
+  udp: true
+- name: 免费-中国杭州-202602281208
+  type: socks5
+  server: 60.177.152.127
+  port: 1080
+  udp: true
 - name: 免费-俄罗斯联邦莫斯科-202602281140
   type: socks5
   server: 128.127.144.137
@@ -117,39 +152,4 @@ proxies:
   type: socks5
   server: 171.227.28.18
   port: 5000
-  udp: true
-- name: 免费-越南Quận Tân Phú-202602280427-01
-  type: socks5
-  server: 171.227.28.18
-  port: 5002
-  udp: true
-- name: 免费-俄罗斯联邦米阿斯-202602280409
-  type: socks5
-  server: 5.79.157.204
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯联邦車里雅賓斯克-202602280409
-  type: socks5
-  server: 5.79.212.84
-  port: 8888
-  udp: true
-- name: 免费-德国法兰克福-202602280404
-  type: socks5
-  server: 178.162.241.234
-  port: 8000
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202602280402
-  type: socks5
-  server: 181.6.121.197
-  port: 1080
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202602280402-01
-  type: socks5
-  server: 181.6.116.128
-  port: 1080
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202602280402-02
-  type: socks5
-  server: 181.6.133.56
-  port: 1080
   udp: true
