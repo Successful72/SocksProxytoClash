@@ -1,5 +1,5 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-01 02:43 CST
+# Auto-generated at 2026-03-01 03:27 CST
 # Total: 30 proxies
 
 proxies:
@@ -7,11 +7,6 @@ proxies:
   type: socks5
   server: 103.142.102.14
   port: 10808
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202603010202
-  type: socks5
-  server: 185.125.203.221
-  port: 443
   udp: true
 - name: 免费-俄罗斯莫斯科-202603010144
   type: socks5
@@ -33,16 +28,6 @@ proxies:
   server: 194.62.166.244
   port: 5002
   udp: true
-- name: 免费-美国聖荷西-202603010046
-  type: socks5
-  server: 54.183.86.195
-  port: 1080
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202603010011
-  type: socks5
-  server: 181.101.46.80
-  port: 1080
-  udp: true
 - name: 免费-越南河內市-202602282334
   type: socks5
   server: 171.237.179.116
@@ -53,19 +38,9 @@ proxies:
   server: 140.116.29.163
   port: 10808
   udp: true
-- name: 免费-奥地利維也納-202602282232
-  type: socks5
-  server: 85.192.42.26
-  port: 8080
-  udp: true
 - name: 免费-美国洛杉矶-202602282215
   type: socks5
   server: 148.135.85.87
-  port: 1080
-  udp: true
-- name: 免费-澳大利亚悉尼-202602282202
-  type: socks5
-  server: 134.199.159.23
   port: 1080
   udp: true
 - name: 免费-越南河內市-202602282029
@@ -77,11 +52,6 @@ proxies:
   type: socks5
   server: 123.16.200.39
   port: 5002
-  udp: true
-- name: 免费-俄罗斯联邦新特羅伊茨克-202602281918
-  type: socks5
-  server: 92.49.161.101
-  port: 1080
   udp: true
 - name: 免费-新加坡新加坡-202602281902
   type: socks5
@@ -98,25 +68,10 @@ proxies:
   server: 142.171.85.32
   port: 1080
   udp: true
-- name: 免费-中国太原-202602281435
-  type: socks5
-  server: 110.179.80.228
-  port: 1080
-  udp: true
-- name: 免费-伊朗德黑兰-202602281434
-  type: socks5
-  server: 77.72.80.82
-  port: 2080
-  udp: true
 - name: 免费-荷兰阿姆斯特丹-202602281431
   type: socks5
   server: 212.34.135.86
   port: 5000
-  udp: true
-- name: 免费-美国Dublin-202602281408
-  type: socks5
-  server: 18.188.198.27
-  port: 8000
   udp: true
 - name: 免费-澳大利亚悉尼-202602281343
   type: socks5
@@ -138,18 +93,63 @@ proxies:
   server: 77.232.39.222
   port: 9999
   udp: true
-- name: 免费-美国洛杉矶-202602281227
+- name: 免费-美国The Dalles-202602281039
   type: socks5
-  server: 204.194.54.68
-  port: 3128
+  server: 35.212.217.57
+  port: 1080
   udp: true
-- name: 免费-中国福州市-202602281221
+- name: 免费-日本东京-202602280952
   type: socks5
-  server: 110.88.240.89
-  port: 10808
+  server: 103.75.118.84
+  port: 1080
   udp: true
-- name: 免费-俄罗斯莫斯科-202602281217
+- name: 免费-德国Falkenstein-202602280930
   type: socks5
-  server: 185.155.19.77
-  port: 10808
+  server: 148.251.123.10
+  port: 1080
+  udp: true
+- name: 免费-德国Falkenstein-202602280930-01
+  type: socks5
+  server: 148.251.88.242
+  port: 1080
+  udp: true
+- name: 免费-孟加拉国Narsingdi-202602280853
+  type: socks5
+  server: 103.180.112.65
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯莫斯科-202602280841
+  type: socks5
+  server: 83.234.87.145
+  port: 1080
+  udp: true
+- name: 免费-美国塔克維拉-202602280620
+  type: socks5
+  server: 173.0.60.68
+  port: 5004
+  udp: true
+- name: 免费-德国法兰克福-202602280404
+  type: socks5
+  server: 178.162.241.234
+  port: 8000
+  udp: true
+- name: 免费-日本东京-202602280340
+  type: socks5
+  server: 205.198.76.38
+  port: 1111
+  udp: true
+- name: 免费-越南河內市-202602280334
+  type: socks5
+  server: 42.114.83.215
+  port: 1080
+  udp: true
+- name: 免费-德国纽伦堡-202602280025
+  type: socks5
+  server: 157.90.234.5
+  port: 443
+  udp: true
+- name: 免费-爱尔兰都柏林-202602272152
+  type: socks5
+  server: 176.34.238.188
+  port: 1080
   udp: true
