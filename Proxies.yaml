@@ -1,8 +1,53 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-02-28 07:32 CST
+# Auto-generated at 2026-02-28 10:30 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-新加坡新加坡-202602280955
+  type: socks5
+  server: 209.74.81.113
+  port: 1080
+  udp: true
+- name: 免费-日本东京-202602280952
+  type: socks5
+  server: 103.75.118.84
+  port: 1080
+  udp: true
+- name: 免费-德国Falkenstein-202602280941
+  type: socks5
+  server: 91.99.178.195
+  port: 1080
+  udp: true
+- name: 免费-德国Falkenstein-202602280930
+  type: socks5
+  server: 148.251.123.10
+  port: 1080
+  udp: true
+- name: 免费-德国Falkenstein-202602280930-01
+  type: socks5
+  server: 148.251.88.242
+  port: 1080
+  udp: true
+- name: 免费-孟加拉国Narsingdi-202602280853
+  type: socks5
+  server: 103.180.112.65
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯莫斯科-202602280841
+  type: socks5
+  server: 83.234.87.145
+  port: 1080
+  udp: true
+- name: 免费-荷兰Dronten-202602280823
+  type: socks5
+  server: 5.255.104.109
+  port: 8888
+  udp: true
+- name: 免费-中国宁波市-202602280817
+  type: socks5
+  server: 110.42.68.11
+  port: 1080
+  udp: true
 - name: 免费-荷兰阿姆斯特丹-202602280706
   type: socks5
   server: 212.111.89.171
@@ -107,49 +152,4 @@ proxies:
   type: socks5
   server: 181.6.158.18
   port: 1080
-  udp: true
-- name: 免费-日本东京-202602280340
-  type: socks5
-  server: 205.198.76.38
-  port: 1111
-  udp: true
-- name: 免费-越南河內市-202602280334
-  type: socks5
-  server: 42.114.83.215
-  port: 1080
-  udp: true
-- name: 免费-美国聖荷西-202602280310
-  type: socks5
-  server: 54.67.14.67
-  port: 1080
-  udp: true
-- name: 免费-日本Osaka-202602280147
-  type: socks5
-  server: 64.110.105.86
-  port: 1080
-  udp: true
-- name: 免费-伊朗伊斯法罕-202602280026
-  type: socks5
-  server: 193.178.202.33
-  port: 1080
-  udp: true
-- name: 免费-德国纽伦堡-202602280025
-  type: socks5
-  server: 157.90.234.5
-  port: 443
-  udp: true
-- name: 免费-瑞典斯德哥尔摩-202602272344
-  type: socks5
-  server: 45.153.187.163
-  port: 1080
-  udp: true
-- name: 免费-香港Sheung Wan-202602272342
-  type: socks5
-  server: 202.8.107.115
-  port: 1080
-  udp: true
-- name: 免费-美国Elk Grove Village-202602272206
-  type: socks5
-  server: 107.175.83.157
-  port: 1088
   udp: true
