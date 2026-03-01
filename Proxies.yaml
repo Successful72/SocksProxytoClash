@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-01 23:32 CST
+# Auto-generated at 2026-03-02 00:38 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-美国明克勒-202603020014
+  type: socks5
+  server: 47.77.193.180
+  port: 1080
+  udp: true
+- name: 免费-美国明克勒-202603020013
+  type: socks5
+  server: 47.77.180.205
+  port: 1080
+  udp: true
+- name: 免费-智利圣地亚哥-202603020001
+  type: socks5
+  server: 34.176.140.244
+  port: 443
+  udp: true
+- name: 免费-日本东京-202603012332
+  type: socks5
+  server: 43.153.157.37
+  port: 1080
+  udp: true
+- name: 免费-日本东京-202603012331
+  type: socks5
+  server: 43.153.156.179
+  port: 1080
+  udp: true
+- name: 免费-美国費利蒙-202603012324
+  type: socks5
+  server: 193.46.217.77
+  port: 1080
+  udp: true
 - name: 免费-美国芝加哥-202603012223
   type: socks5
   server: 45.133.158.222
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 103.74.174.11
   port: 20005
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202603011235
-  type: socks5
-  server: 77.246.111.238
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯联邦莫斯科-202603011142
-  type: socks5
-  server: 89.169.7.36
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202603011113
-  type: socks5
-  server: 109.200.188.213
-  port: 1080
-  udp: true
-- name: 免费-香港香港-202603011100
-  type: socks5
-  server: 8.217.110.202
-  port: 9999
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202603011020
-  type: socks5
-  server: 181.102.10.152
-  port: 1080
-  udp: true
-- name: 免费-阿根廷巴拉那-202603011020
-  type: socks5
-  server: 181.102.28.139
-  port: 1080
   udp: true
