@@ -1,8 +1,73 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-01 07:30 CST
+# Auto-generated at 2026-03-01 10:56 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011020
+  type: socks5
+  server: 181.102.10.152
+  port: 1080
+  udp: true
+- name: 免费-阿根廷巴拉那-202603011020
+  type: socks5
+  server: 181.102.28.139
+  port: 1080
+  udp: true
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011020-01
+  type: socks5
+  server: 181.102.240.195
+  port: 1080
+  udp: true
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011020-02
+  type: socks5
+  server: 181.102.84.41
+  port: 1080
+  udp: true
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011019
+  type: socks5
+  server: 181.102.95.46
+  port: 1080
+  udp: true
+- name: 免费-阿根廷科尔多瓦-202603011019
+  type: socks5
+  server: 181.102.119.192
+  port: 1080
+  udp: true
+- name: 免费-阿根廷Banda del Río Salí-202603011019
+  type: socks5
+  server: 181.102.176.214
+  port: 1080
+  udp: true
+- name: 免费-阿根廷Estación Camet-202603011019
+  type: socks5
+  server: 181.102.170.228
+  port: 1080
+  udp: true
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011019-01
+  type: socks5
+  server: 181.102.13.59
+  port: 1080
+  udp: true
+- name: 免费-阿根廷布宜诺斯艾利斯-202603011019-02
+  type: socks5
+  server: 181.102.194.77
+  port: 1080
+  udp: true
+- name: 免费-香港Tsuen Wan-202603010846
+  type: socks5
+  server: 91.103.123.248
+  port: 443
+  udp: true
+- name: 免费-美国圣克拉拉-202603010812
+  type: socks5
+  server: 198.23.246.214
+  port: 443
+  udp: true
+- name: 免费-俄罗斯联邦伯力-202603010752
+  type: socks5
+  server: 85.15.106.0
+  port: 1080
+  udp: true
 - name: 免费-美国堪薩斯城-202603010628
   type: socks5
   server: 74.208.234.198
@@ -87,69 +152,4 @@ proxies:
   type: socks5
   server: 206.123.156.213
   port: 5000
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-13
-  type: socks5
-  server: 206.123.156.217
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-14
-  type: socks5
-  server: 206.123.156.236
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-15
-  type: socks5
-  server: 206.123.156.185
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-16
-  type: socks5
-  server: 206.123.156.254
-  port: 5000
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-17
-  type: socks5
-  server: 206.123.156.230
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-18
-  type: socks5
-  server: 206.123.156.223
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-19
-  type: socks5
-  server: 206.123.156.254
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-20
-  type: socks5
-  server: 206.123.156.251
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-21
-  type: socks5
-  server: 206.123.156.220
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-22
-  type: socks5
-  server: 206.123.156.192
-  port: 5000
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-23
-  type: socks5
-  server: 206.123.156.199
-  port: 5000
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-24
-  type: socks5
-  server: 206.123.156.228
-  port: 5002
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603010531-25
-  type: socks5
-  server: 206.123.156.199
-  port: 5002
   udp: true
