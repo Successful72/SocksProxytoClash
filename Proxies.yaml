@@ -1,8 +1,33 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-01 19:28 CST
+# Auto-generated at 2026-03-01 21:04 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-芬兰赫尔辛基-202603012034
+  type: socks5
+  server: 95.216.95.185
+  port: 8888
+  udp: true
+- name: 免费-芬兰赫尔辛基-202603012029
+  type: socks5
+  server: 95.216.104.118
+  port: 8888
+  udp: true
+- name: 免费-香港Tsing Yi-202603012025
+  type: socks5
+  server: 223.17.253.54
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦Sovetskiy-202603012019
+  type: socks5
+  server: 31.162.170.60
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦蘇爾古特-202603011937
+  type: socks5
+  server: 217.112.11.23
+  port: 1080
+  udp: true
 - name: 免费-俄罗斯莫斯科-202603011905
   type: socks5
   server: 178.154.193.105
@@ -126,30 +151,5 @@ proxies:
 - name: 免费-阿根廷布宜诺斯艾利斯-202603011019
   type: socks5
   server: 181.102.95.46
-  port: 1080
-  udp: true
-- name: 免费-阿根廷科尔多瓦-202603011019
-  type: socks5
-  server: 181.102.119.192
-  port: 1080
-  udp: true
-- name: 免费-阿根廷Banda del Río Salí-202603011019
-  type: socks5
-  server: 181.102.176.214
-  port: 1080
-  udp: true
-- name: 免费-阿根廷Estación Camet-202603011019
-  type: socks5
-  server: 181.102.170.228
-  port: 1080
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202603011019-01
-  type: socks5
-  server: 181.102.13.59
-  port: 1080
-  udp: true
-- name: 免费-阿根廷布宜诺斯艾利斯-202603011019-02
-  type: socks5
-  server: 181.102.194.77
   port: 1080
   udp: true
