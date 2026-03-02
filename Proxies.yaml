@@ -1,11 +1,41 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-03 02:59 CST
+# Auto-generated at 2026-03-03 03:46 CST
 # Total: 30 proxies
 
 proxies:
-- name: 免费-巴西圣保罗-202603030145
+- name: 免费-孟加拉Gazipur-202603030337
   type: socks5
-  server: 82.112.244.246
+  server: 103.179.156.61
+  port: 1080
+  udp: true
+- name: 免费-美国塔克維拉-202603030336
+  type: socks5
+  server: 173.0.61.171
+  port: 5003
+  udp: true
+- name: 免费-美国塔克維拉-202603030336-01
+  type: socks5
+  server: 173.0.61.178
+  port: 5002
+  udp: true
+- name: 免费-美国塔克維拉-202603030336-02
+  type: socks5
+  server: 173.0.60.116
+  port: 5001
+  udp: true
+- name: 免费-孟加拉Gazipur-202603030333
+  type: socks5
+  server: 103.179.156.37
+  port: 1080
+  udp: true
+- name: 免费-孟加拉Gazipur-202603030332
+  type: socks5
+  server: 103.179.156.128
+  port: 1080
+  udp: true
+- name: 免费-台湾台北市-202603030248
+  type: socks5
+  server: 36.230.47.244
   port: 1080
   udp: true
 - name: 免费-新加坡新加坡-202603030120
@@ -23,35 +53,10 @@ proxies:
   server: 5.228.29.236
   port: 10808
   udp: true
-- name: 免费-越南河內市-202603022246
-  type: socks5
-  server: 42.113.56.222
-  port: 20000
-  udp: true
-- name: 免费-越南河內市-202603022246-01
-  type: socks5
-  server: 42.113.42.157
-  port: 20000
-  udp: true
 - name: 免费-香港香港-202603022225
   type: socks5
   server: 198.44.178.9
   port: 7777
-  udp: true
-- name: 免费-美国達拉斯-202603022223
-  type: socks5
-  server: 38.180.145.205
-  port: 443
-  udp: true
-- name: 免费-挪威奥斯陆-202603022207
-  type: socks5
-  server: 38.180.1.245
-  port: 443
-  udp: true
-- name: 免费-中国沈阳市-202603022111
-  type: socks5
-  server: 42.203.37.113
-  port: 10808
   udp: true
 - name: 免费-美国迈阿密-202603022053
   type: socks5
@@ -103,25 +108,10 @@ proxies:
   server: 38.60.209.88
   port: 20002
   udp: true
-- name: 免费-新加坡新加坡-202603021942
-  type: socks5
-  server: 43.156.134.247
-  port: 1090
-  udp: true
-- name: 免费-新加坡新加坡-202603021942-01
-  type: socks5
-  server: 43.156.113.112
-  port: 1090
-  udp: true
 - name: 免费-中国上海-202603021929
   type: socks5
   server: 218.80.112.210
   port: 7000
-  udp: true
-- name: 免费-俄罗斯联邦克麥羅沃-202603021908
-  type: socks5
-  server: 176.196.157.83
-  port: 10808
   udp: true
 - name: 免费-德国法兰克福-202603021859
   type: socks5
@@ -151,5 +141,15 @@ proxies:
 - name: 免费-德国法兰克福-202603021851
   type: socks5
   server: 77.90.61.20
+  port: 1080
+  udp: true
+- name: 免费-香港香港-202603021833
+  type: socks5
+  server: 38.246.249.217
+  port: 8888
+  udp: true
+- name: 免费-美国Ashburn-202603021704
+  type: socks5
+  server: 150.136.162.185
   port: 1080
   udp: true
