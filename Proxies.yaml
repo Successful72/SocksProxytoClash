@@ -1,8 +1,53 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-02 18:58 CST
+# Auto-generated at 2026-03-02 19:38 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-中国上海-202603021929
+  type: socks5
+  server: 218.80.112.210
+  port: 7000
+  udp: true
+- name: 免费-俄罗斯联邦克麥羅沃-202603021908
+  type: socks5
+  server: 176.196.157.83
+  port: 10808
+  udp: true
+- name: 免费-德国法兰克福-202603021859
+  type: socks5
+  server: 77.90.61.17
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603021855
+  type: socks5
+  server: 77.90.61.24
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603021855-01
+  type: socks5
+  server: 77.90.61.13
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603021853
+  type: socks5
+  server: 77.90.61.26
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603021852
+  type: socks5
+  server: 77.90.61.18
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603021851
+  type: socks5
+  server: 77.90.61.20
+  port: 1080
+  udp: true
+- name: 免费-巴西里约热内卢-202603021851
+  type: socks5
+  server: 177.215.205.75
+  port: 1080
+  udp: true
 - name: 免费-新加坡新加坡-202603021835
   type: socks5
   server: 128.90.49.92
@@ -107,49 +152,4 @@ proxies:
   type: socks5
   server: 129.212.226.87
   port: 443
-  udp: true
-- name: 免费-越南河內市-202603021029
-  type: socks5
-  server: 116.97.130.67
-  port: 1080
-  udp: true
-- name: 免费-美国Dublin-202603020841
-  type: socks5
-  server: 18.217.164.12
-  port: 8000
-  udp: true
-- name: 免费-中国成都-202603020839
-  type: socks5
-  server: 119.7.11.144
-  port: 12345
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202603020807
-  type: socks5
-  server: 5.129.228.225
-  port: 1080
-  udp: true
-- name: 免费-中国上海-202603020727
-  type: socks5
-  server: 223.166.219.164
-  port: 10888
-  udp: true
-- name: 免费-土耳其Beşiktaş-202603020716
-  type: socks5
-  server: 84.51.62.198
-  port: 1080
-  udp: true
-- name: 免费-德国纽伦堡-202603020653
-  type: socks5
-  server: 5.75.196.26
-  port: 40000
-  udp: true
-- name: 免费-印度尼西亚雅加达-202603020640
-  type: socks5
-  server: 212.85.25.74
-  port: 1080
-  udp: true
-- name: 免费-西班牙马德里-202603020558
-  type: socks5
-  server: 65.20.105.241
-  port: 10001
   udp: true
