@@ -1,8 +1,48 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-03 07:34 CST
+# Auto-generated at 2026-03-03 10:47 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-俄罗斯莫斯科-202603031011
+  type: socks5
+  server: 213.159.209.144
+  port: 443
+  udp: true
+- name: 免费-新加坡新加坡-202603030925
+  type: socks5
+  server: 18.138.241.37
+  port: 1080
+  udp: true
+- name: 免费-荷兰Dronten-202603030912
+  type: socks5
+  server: 45.129.140.213
+  port: 1080
+  udp: true
+- name: 免费-也门萨那-202603030835
+  type: socks5
+  server: 175.110.20.28
+  port: 1080
+  udp: true
+- name: 免费-法国巴黎-202603030827
+  type: socks5
+  server: 46.8.225.226
+  port: 4444
+  udp: true
+- name: 免费-美国聖荷西-202603030806
+  type: socks5
+  server: 54.215.111.33
+  port: 1080
+  udp: true
+- name: 免费-荷兰阿姆斯特丹-202603030752
+  type: socks5
+  server: 82.115.13.103
+  port: 443
+  udp: true
+- name: 免费-保加利亚Zlatitsa-202603030731
+  type: socks5
+  server: 93.123.121.3
+  port: 8080
+  udp: true
 - name: 免费-俄罗斯希姆基-202603030707
   type: socks5
   server: 212.109.218.70
@@ -112,44 +152,4 @@ proxies:
   type: socks5
   server: 104.238.136.188
   port: 1080
-  udp: true
-- name: 免费-美国肯特-202603022022
-  type: socks5
-  server: 45.63.36.20
-  port: 1080
-  udp: true
-- name: 免费-巴西圣保罗-202603022006
-  type: socks5
-  server: 38.60.209.182
-  port: 20002
-  udp: true
-- name: 免费-巴西圣保罗-202603022006-01
-  type: socks5
-  server: 38.60.209.180
-  port: 20002
-  udp: true
-- name: 免费-墨西哥墨西哥城-202603022006
-  type: socks5
-  server: 38.60.224.125
-  port: 20002
-  udp: true
-- name: 免费-巴西圣保罗-202603022006-02
-  type: socks5
-  server: 38.60.209.66
-  port: 20002
-  udp: true
-- name: 免费-巴西圣保罗-202603022006-03
-  type: socks5
-  server: 38.60.209.79
-  port: 20002
-  udp: true
-- name: 免费-巴西圣保罗-202603022005
-  type: socks5
-  server: 38.60.209.181
-  port: 20002
-  udp: true
-- name: 免费-巴西圣保罗-202603022005-01
-  type: socks5
-  server: 38.60.209.216
-  port: 20002
   udp: true
