@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-04 07:34 CST
+# Auto-generated at 2026-03-04 10:39 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-阿联酋阿布扎比-202603041003
+  type: socks5
+  server: 31.56.178.238
+  port: 1088
+  udp: true
+- name: 免费-阿联酋阿布扎比-202603041001
+  type: socks5
+  server: 31.56.178.212
+  port: 8888
+  udp: true
+- name: 免费-中国南京-202603040950
+  type: socks5
+  server: 116.147.108.184
+  port: 10808
+  udp: true
+- name: 免费-德国Falkenstein-202603040856
+  type: socks5
+  server: 148.251.77.54
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603040832
+  type: socks5
+  server: 89.185.85.138
+  port: 1080
+  udp: true
+- name: 免费-以色列特拉维夫-202603040814
+  type: socks5
+  server: 51.84.215.237
+  port: 443
+  udp: true
 - name: 免费-日本東京都-202603040635
   type: socks5
   server: 35.221.112.92
@@ -121,35 +151,5 @@ proxies:
 - name: 免费-新加坡新加坡-202603030925
   type: socks5
   server: 18.138.241.37
-  port: 1080
-  udp: true
-- name: 免费-荷兰Dronten-202603030912
-  type: socks5
-  server: 45.129.140.213
-  port: 1080
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202603030752
-  type: socks5
-  server: 82.115.13.103
-  port: 443
-  udp: true
-- name: 免费-保加利亚Zlatitsa-202603030731
-  type: socks5
-  server: 93.123.121.3
-  port: 8080
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603030652
-  type: socks5
-  server: 206.123.156.229
-  port: 9000
-  udp: true
-- name: 免费-美国盐湖城-202603030648
-  type: socks5
-  server: 192.166.82.55
-  port: 1080
-  udp: true
-- name: 免费-孟加拉Gazipur-202603030337
-  type: socks5
-  server: 103.179.156.61
   port: 1080
   udp: true
