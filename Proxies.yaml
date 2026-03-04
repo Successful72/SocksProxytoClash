@@ -1,8 +1,13 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-05 00:57 CST
+# Auto-generated at 2026-03-05 01:50 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-俄罗斯Yekaterinburg-202603050040
+  type: socks5
+  server: 217.114.13.160
+  port: 1080
+  udp: true
 - name: 免费-美国The Dalles-202603050007
   type: socks5
   server: 35.212.232.102
@@ -147,9 +152,4 @@ proxies:
   type: socks5
   server: 213.165.58.7
   port: 1080
-  udp: true
-- name: 免费-尼日利亚拉哥斯-202603042304
-  type: socks5
-  server: 102.69.146.59
-  port: 7080
   udp: true
