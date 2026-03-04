@@ -1,8 +1,13 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-05 05:42 CST
+# Auto-generated at 2026-03-05 06:40 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-香港Sha Tin Pass Estate-202603050549
+  type: socks5
+  server: 218.102.94.122
+  port: 9000
+  udp: true
 - name: 免费-日本大阪市-202603050530
   type: socks5
   server: 206.190.233.154
@@ -147,9 +152,4 @@ proxies:
   type: socks5
   server: 103.75.118.84
   port: 1080
-  udp: true
-- name: 免费-荷兰Eygelshoven-202603042303
-  type: socks5
-  server: 195.62.32.233
-  port: 2080
   udp: true
