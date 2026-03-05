@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-05 21:17 CST
+# Auto-generated at 2026-03-05 22:55 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-哈萨克斯坦塔拉兹-202603052238
+  type: socks5
+  server: 2.133.138.102
+  port: 80
+  udp: true
+- name: 免费-德国法兰克福-202603052218
+  type: socks5
+  server: 128.90.128.69
+  port: 1080
+  udp: true
+- name: 免费-阿联酋迪拜-202603052217
+  type: socks5
+  server: 128.90.101.101
+  port: 1080
+  udp: true
+- name: 免费-新加坡新加坡-202603052217
+  type: socks5
+  server: 128.90.49.188
+  port: 1080
+  udp: true
+- name: 免费-美国達拉斯-202603052217
+  type: socks5
+  server: 83.229.17.147
+  port: 1080
+  udp: true
+- name: 免费-美国Dublin-202603052124
+  type: socks5
+  server: 3.144.232.24
+  port: 11111
+  udp: true
 - name: 免费-中国上海-202603052035
   type: socks5
   server: 121.4.51.106
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 154.37.208.132
   port: 30000
-  udp: true
-- name: 免费-柬埔寨金边-202603051052
-  type: socks5
-  server: 124.248.188.62
-  port: 1080
-  udp: true
-- name: 免费-柬埔寨金边-202603051051
-  type: socks5
-  server: 124.248.177.44
-  port: 1080
-  udp: true
-- name: 免费-香港柴灣-202603050953
-  type: socks5
-  server: 154.221.21.121
-  port: 10808
-  udp: true
-- name: 免费-德国纽伦堡-202603050937
-  type: socks5
-  server: 116.203.226.156
-  port: 4444
-  udp: true
-- name: 免费-荷兰阿姆斯特丹-202603050837
-  type: socks5
-  server: 89.19.216.3
-  port: 1080
-  udp: true
-- name: 免费-德国法兰克福-202603050836
-  type: socks5
-  server: 89.19.212.141
-  port: 80
   udp: true
