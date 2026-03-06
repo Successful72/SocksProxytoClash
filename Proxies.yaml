@@ -1,12 +1,17 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-07 02:57 CST
+# Auto-generated at 2026-03-07 03:40 CST
 # Total: 30 proxies
 
 proxies:
-- name: 免费-美国洛杉矶-202603062352
+- name: 免费-乌克兰Kyiv-202603070300
   type: socks5
-  server: 107.174.127.164
-  port: 1080
+  server: 94.178.25.72
+  port: 10808
+  udp: true
+- name: 免费-香港Tseung Kwan O-202603070300
+  type: socks5
+  server: 162.211.180.216
+  port: 10808
   udp: true
 - name: 免费-新加坡新加坡-202603062316
   type: socks5
@@ -27,11 +32,6 @@ proxies:
   type: socks5
   server: 185.238.250.86
   port: 1080
-  udp: true
-- name: 免费-美国洛杉矶-202603061916
-  type: socks5
-  server: 108.181.115.254
-  port: 10000
   udp: true
 - name: 免费-美国昆西-202603061910
   type: socks5
@@ -88,21 +88,6 @@ proxies:
   server: 159.196.148.77
   port: 80
   udp: true
-- name: 免费-中国成都-202603061825
-  type: socks5
-  server: 182.138.228.109
-  port: 1080
-  udp: true
-- name: 免费-芬兰赫尔辛基-202603061710
-  type: socks5
-  server: 65.21.248.18
-  port: 1080
-  udp: true
-- name: 免费-日本东京-202603061651
-  type: socks5
-  server: 154.31.114.40
-  port: 10001
-  udp: true
 - name: 免费-荷兰阿姆斯特丹-202603061621
   type: socks5
   server: 104.248.197.67
@@ -113,24 +98,9 @@ proxies:
   server: 171.238.157.59
   port: 5004
   udp: true
-- name: 免费-香港中環-202603061423
-  type: socks5
-  server: 193.24.211.232
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061331
-  type: socks5
-  server: 43.155.140.44
-  port: 1080
-  udp: true
 - name: 免费-荷兰阿姆斯特丹-202603061322
   type: socks5
   server: 31.130.131.142
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯Vyselki-202603061313
-  type: socks5
-  server: 185.106.105.10
   port: 1080
   udp: true
 - name: 免费-日本Osaka-202603061156
@@ -151,5 +121,35 @@ proxies:
 - name: 免费-美国洛杉矶-202603060837
   type: socks5
   server: 107.175.224.230
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯莫斯科-202603060414
+  type: socks5
+  server: 94.198.55.108
+  port: 1080
+  udp: true
+- name: 免费-美国洛杉矶-202603060409
+  type: socks5
+  server: 23.95.248.109
+  port: 1080
+  udp: true
+- name: 免费-德意志联邦共和国Frankfurt Am Main-202603052357
+  type: socks5
+  server: 91.107.175.112
+  port: 10801
+  udp: true
+- name: 免费-哈萨克斯坦塔拉兹-202603052238
+  type: socks5
+  server: 2.133.138.102
+  port: 80
+  udp: true
+- name: 免费-美国達拉斯-202603052217
+  type: socks5
+  server: 83.229.17.147
+  port: 1080
+  udp: true
+- name: 免费-荷兰阿姆斯特丹-202603052017
+  type: socks5
+  server: 193.233.16.0
   port: 1080
   udp: true
