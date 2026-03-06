@@ -1,8 +1,13 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-06 22:45 CST
+# Auto-generated at 2026-03-06 23:47 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-新加坡新加坡-202603062316
+  type: socks5
+  server: 43.160.219.238
+  port: 1080
+  udp: true
 - name: 免费-斯洛伐克布拉迪斯拉发-202603062238
   type: socks5
   server: 45.89.54.4
@@ -147,9 +152,4 @@ proxies:
   type: socks5
   server: 112.230.101.82
   port: 1088
-  udp: true
-- name: 免费-中国广州市-202603060515
-  type: socks5
-  server: 119.131.88.43
-  port: 1080
   udp: true
