@@ -1,16 +1,31 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-06 10:40 CST
+# Auto-generated at 2026-03-06 12:48 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-韩国春川市-202603061200
+  type: socks5
+  server: 138.2.113.26
+  port: 443
+  udp: true
+- name: 免费-日本Osaka-202603061156
+  type: socks5
+  server: 138.2.47.198
+  port: 1080
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603061051
+  type: socks5
+  server: 206.123.156.177
+  port: 20000
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603061051-01
+  type: socks5
+  server: 206.123.156.223
+  port: 20002
+  udp: true
 - name: 免费-美国洛杉矶-202603060837
   type: socks5
   server: 107.175.224.230
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯莫斯科-202603060651
-  type: socks5
-  server: 45.132.255.53
   port: 1080
   udp: true
 - name: 免费-中国济南市-202603060619
@@ -29,11 +44,6 @@ proxies:
   port: 1080
   udp: true
 - name: 免费-俄罗斯莫斯科-202603060414
-  type: socks5
-  server: 94.198.20.42
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯莫斯科-202603060414-01
   type: socks5
   server: 94.198.55.108
   port: 1080
@@ -61,11 +71,6 @@ proxies:
 - name: 免费-英国伦敦-202603060303
   type: socks5
   server: 51.89.25.241
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯海兰泡-202603060150
-  type: socks5
-  server: 91.142.157.51
   port: 1080
   udp: true
 - name: 免费-德意志联邦共和国Frankfurt Am Main-202603052357
@@ -146,10 +151,5 @@ proxies:
 - name: 免费-德国诺伊基尔兴-巴尔比尼-202603051504
   type: socks5
   server: 81.95.13.246
-  port: 1080
-  udp: true
-- name: 免费-印尼坦格朗-202603051503
-  type: socks5
-  server: 103.153.63.223
   port: 1080
   udp: true
