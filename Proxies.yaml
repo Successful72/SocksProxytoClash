@@ -1,8 +1,33 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-07 17:37 CST
+# Auto-generated at 2026-03-07 18:32 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-德国Frankfurt am Main-202603071817
+  type: socks5
+  server: 3.77.99.141
+  port: 1080
+  udp: true
+- name: 免费-塞内加尔達喀爾-202603071816
+  type: socks5
+  server: 154.124.240.161
+  port: 50161
+  udp: true
+- name: 免费-德国法兰克福-202603071816
+  type: socks5
+  server: 131.143.125.221
+  port: 50161
+  udp: true
+- name: 免费-香港香港-202603071816
+  type: socks5
+  server: 156.238.251.61
+  port: 50161
+  udp: true
+- name: 免费-美国凤凰城-202603071743
+  type: socks5
+  server: 207.174.3.213
+  port: 1080
+  udp: true
 - name: 免费-美国Piscataway-202603071717
   type: socks5
   server: 149.28.62.24
@@ -126,30 +151,5 @@ proxies:
 - name: 免费-韩国首尔特别市-202603061858
   type: socks5
   server: 3.35.141.92
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061858-01
-  type: socks5
-  server: 3.35.125.221
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061857
-  type: socks5
-  server: 3.35.170.31
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061857-01
-  type: socks5
-  server: 3.35.18.88
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061857-02
-  type: socks5
-  server: 3.35.13.226
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061856
-  type: socks5
-  server: 3.35.231.90
   port: 1080
   udp: true
