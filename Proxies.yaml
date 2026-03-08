@@ -1,8 +1,58 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-08 13:51 CST
+# Auto-generated at 2026-03-08 14:54 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-瑞典斯德哥尔摩-202603081413
+  type: socks5
+  server: 13.49.38.251
+  port: 1080
+  udp: true
+- name: 免费-英国伦敦-202603081400
+  type: socks5
+  server: 212.46.33.66
+  port: 1080
+  udp: true
+- name: 免费-美国Dublin-202603081358
+  type: socks5
+  server: 3.146.140.22
+  port: 6000
+  udp: true
+- name: 免费-美国塔克維拉-202603081343
+  type: socks5
+  server: 173.0.61.171
+  port: 5001
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-01
+  type: socks5
+  server: 173.0.61.195
+  port: 5002
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-02
+  type: socks5
+  server: 173.0.61.195
+  port: 5003
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-03
+  type: socks5
+  server: 173.0.61.178
+  port: 5001
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-04
+  type: socks5
+  server: 173.0.61.102
+  port: 5001
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-05
+  type: socks5
+  server: 173.0.61.171
+  port: 5003
+  udp: true
+- name: 免费-美国塔克維拉-202603081343-06
+  type: socks5
+  server: 173.0.61.178
+  port: 5003
+  udp: true
 - name: 免费-新加坡新加坡-202603081338
   type: socks5
   server: 34.143.144.117
@@ -102,54 +152,4 @@ proxies:
   type: socks5
   server: 2.59.162.148
   port: 8080
-  udp: true
-- name: 免费-中国武汉-202603071115
-  type: socks5
-  server: 219.140.7.102
-  port: 30000
-  udp: true
-- name: 免费-美国阿什本-202603071027
-  type: socks5
-  server: 38.55.75.218
-  port: 1080
-  udp: true
-- name: 免费-香港香港-202603071021
-  type: socks5
-  server: 38.55.105.63
-  port: 1080
-  udp: true
-- name: 免费-香港Tseung Kwan O-202603070300
-  type: socks5
-  server: 162.211.180.216
-  port: 10808
-  udp: true
-- name: 免费-新加坡新加坡-202603062316
-  type: socks5
-  server: 43.160.219.238
-  port: 1080
-  udp: true
-- name: 免费-美国昆西-202603061910
-  type: socks5
-  server: 20.120.246.129
-  port: 1080
-  udp: true
-- name: 免费-美国昆西-202603061910-01
-  type: socks5
-  server: 20.120.230.128
-  port: 1080
-  udp: true
-- name: 免费-美国昆西-202603061910-02
-  type: socks5
-  server: 20.120.230.121
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061905
-  type: socks5
-  server: 3.35.216.252
-  port: 1080
-  udp: true
-- name: 免费-韩国首尔特别市-202603061858
-  type: socks5
-  server: 3.35.141.92
-  port: 1080
   udp: true
