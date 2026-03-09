@@ -1,155 +1,155 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-10 00:09 CST
+# Auto-generated at 2026-03-10 01:52 CST
 # Total: 30 proxies
 
 proxies:
-- name: 免费-俄罗斯莫斯科-202603092347
+- name: 免费-美国堪薩斯城-202603100131
   type: socks5
-  server: 130.193.44.12
-  port: 10808
-  udp: true
-- name: 免费-香港香港-202603092332
-  type: socks5
-  server: 45.136.15.209
-  port: 8888
-  udp: true
-- name: 免费-澳大利亚悉尼-202603092308
-  type: socks5
-  server: 209.38.90.219
-  port: 1080
-  udp: true
-- name: 免费-韩国Tangjin-202603092253
-  type: socks5
-  server: 112.166.171.210
-  port: 1080
-  udp: true
-- name: 免费-俄罗斯克拉斯诺达尔-202603092215
-  type: socks5
-  server: 188.43.31.236
-  port: 1080
-  udp: true
-- name: 免费-新加坡新加坡-202603092210
-  type: socks5
-  server: 124.243.148.123
-  port: 1080
-  udp: true
-- name: 免费-美国克利夫頓-202603092106
-  type: socks5
-  server: 174.138.83.101
-  port: 10001
-  udp: true
-- name: 免费-新加坡新加坡-202603092104
-  type: socks5
-  server: 47.84.126.81
-  port: 443
-  udp: true
-- name: 免费-美国凤凰城-202603092029
-  type: socks5
-  server: 104.161.63.12
-  port: 5002
-  udp: true
-- name: 免费-美国凤凰城-202603092029-01
-  type: socks5
-  server: 104.161.63.12
+  server: 83.136.51.83
   port: 5001
   udp: true
-- name: 免费-美国凤凰城-202603092029-02
+- name: 免费-英国Pendlebury-202603100105
   type: socks5
-  server: 104.161.23.122
-  port: 5003
-  udp: true
-- name: 免费-美国凤凰城-202603092029-03
-  type: socks5
-  server: 104.161.23.122
+  server: 64.176.183.231
   port: 5000
   udp: true
-- name: 免费-柬埔寨金边-202603091939
+- name: 免费-阿尔巴尼亚地拉那-202603100041
   type: socks5
-  server: 43.230.194.23
-  port: 1080
+  server: 206.123.156.197
+  port: 5004
   udp: true
-- name: 免费-中国广州市-202603091937
+- name: 免费-阿尔巴尼亚地拉那-202603100041-01
   type: socks5
-  server: 159.75.213.84
-  port: 1080
+  server: 206.123.156.215
+  port: 5006
   udp: true
-- name: 免费-俄罗斯圣彼得堡-202603091844
+- name: 免费-阿尔巴尼亚地拉那-202603100041-02
   type: socks5
-  server: 212.41.30.108
-  port: 10808
+  server: 206.123.156.222
+  port: 5004
   udp: true
-- name: 免费-俄罗斯联邦莫斯科-202603091844
+- name: 免费-阿尔巴尼亚地拉那-202603100041-03
   type: socks5
-  server: 212.41.26.160
-  port: 10808
+  server: 206.123.156.219
+  port: 5004
   udp: true
-- name: 免费-芬兰赫尔辛基-202603091844
+- name: 免费-阿尔巴尼亚地拉那-202603100041-04
   type: socks5
-  server: 185.188.181.223
-  port: 10808
+  server: 206.123.156.196
+  port: 5005
   udp: true
-- name: 免费-德国法兰克福-202603091745
+- name: 免费-阿尔巴尼亚地拉那-202603100041-05
   type: socks5
-  server: 104.238.158.167
-  port: 1080
+  server: 206.123.156.196
+  port: 5006
   udp: true
-- name: 免费-俄罗斯联邦莫斯科-202603091716
+- name: 免费-阿尔巴尼亚地拉那-202603100041-06
   type: socks5
-  server: 77.50.235.130
-  port: 1080
+  server: 206.123.156.211
+  port: 5004
   udp: true
-- name: 免费-加拿大蒙特利尔-202603091707
+- name: 免费-阿尔巴尼亚地拉那-202603100041-07
   type: socks5
-  server: 168.138.71.179
-  port: 443
+  server: 206.123.156.206
+  port: 5006
   udp: true
-- name: 免费-澳大利亚墨尔本-202603091707
+- name: 免费-阿尔巴尼亚地拉那-202603100041-08
   type: socks5
-  server: 168.138.9.147
-  port: 1080
+  server: 206.123.156.229
+  port: 5004
   udp: true
-- name: 免费-香港香港-202603091622
+- name: 免费-阿尔巴尼亚地拉那-202603100041-09
   type: socks5
-  server: 119.28.182.96
-  port: 1080
+  server: 206.123.156.214
+  port: 5004
   udp: true
-- name: 免费-俄罗斯联邦新库兹涅茨克-202603091536
+- name: 免费-阿尔巴尼亚地拉那-202603100040
   type: socks5
-  server: 31.135.34.78
-  port: 1080
+  server: 206.123.156.202
+  port: 5006
   udp: true
-- name: 免费-美国洛杉矶-202603091324
+- name: 免费-阿尔巴尼亚地拉那-202603100040-01
   type: socks5
-  server: 64.186.232.4
-  port: 10808
+  server: 206.123.156.177
+  port: 5006
   udp: true
-- name: 免费-俄罗斯联邦Yoshkar-Ola-202603091239
+- name: 免费-阿尔巴尼亚地拉那-202603100040-02
   type: socks5
-  server: 95.105.84.131
-  port: 1080
+  server: 206.123.156.193
+  port: 5006
   udp: true
-- name: 免费-法国Lauterbourg-202603091154
+- name: 免费-阿尔巴尼亚地拉那-202603100040-03
   type: socks5
-  server: 194.163.160.97
-  port: 10808
+  server: 206.123.156.198
+  port: 5005
   udp: true
-- name: 免费-柬埔寨金边-202603091154
+- name: 免费-阿尔巴尼亚地拉那-202603100040-04
   type: socks5
-  server: 202.79.26.254
-  port: 1080
+  server: 206.123.156.179
+  port: 5005
   udp: true
-- name: 免费-越南胡志明市-202603091154
+- name: 免费-阿尔巴尼亚地拉那-202603100040-05
   type: socks5
-  server: 171.227.160.137
-  port: 8888
+  server: 206.123.156.182
+  port: 5004
   udp: true
-- name: 免费-荷兰阿姆斯特丹-202603091154
+- name: 免费-阿尔巴尼亚地拉那-202603100040-06
   type: socks5
-  server: 161.35.82.57
-  port: 1080
+  server: 206.123.156.208
+  port: 5005
   udp: true
-- name: 免费-瑞典斯德哥尔摩-202603091154
+- name: 免费-阿尔巴尼亚地拉那-202603100040-07
   type: socks5
-  server: 13.49.38.251
-  port: 1080
+  server: 206.123.156.217
+  port: 5005
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-08
+  type: socks5
+  server: 206.123.156.204
+  port: 5005
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-09
+  type: socks5
+  server: 206.123.156.186
+  port: 5004
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-10
+  type: socks5
+  server: 206.123.156.225
+  port: 5006
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-11
+  type: socks5
+  server: 206.123.156.201
+  port: 5005
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-12
+  type: socks5
+  server: 206.123.156.254
+  port: 8000
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-13
+  type: socks5
+  server: 206.123.156.199
+  port: 5004
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-14
+  type: socks5
+  server: 206.123.156.221
+  port: 5006
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-15
+  type: socks5
+  server: 206.123.156.226
+  port: 8000
+  udp: true
+- name: 免费-阿尔巴尼亚地拉那-202603100040-16
+  type: socks5
+  server: 206.123.156.220
+  port: 5004
+  udp: true
+- name: 免费-香港香港-202603100037
+  type: socks5
+  server: 156.226.16.122
+  port: 10001
   udp: true
