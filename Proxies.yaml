@@ -1,8 +1,18 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-10 01:52 CST
+# Auto-generated at 2026-03-10 03:03 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-美国凤凰城-202603100253
+  type: socks5
+  server: 89.116.187.221
+  port: 1080
+  udp: true
+- name: 免费-韩国Anyang-si-202603100150
+  type: socks5
+  server: 61.38.35.115
+  port: 1080
+  udp: true
 - name: 免费-美国堪薩斯城-202603100131
   type: socks5
   server: 83.136.51.83
@@ -45,20 +55,15 @@ proxies:
   udp: true
 - name: 免费-阿尔巴尼亚地拉那-202603100041-06
   type: socks5
-  server: 206.123.156.211
-  port: 5004
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100041-07
-  type: socks5
   server: 206.123.156.206
   port: 5006
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100041-08
+- name: 免费-阿尔巴尼亚地拉那-202603100041-07
   type: socks5
   server: 206.123.156.229
   port: 5004
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100041-09
+- name: 免费-阿尔巴尼亚地拉那-202603100041-08
   type: socks5
   server: 206.123.156.214
   port: 5004
@@ -120,30 +125,25 @@ proxies:
   udp: true
 - name: 免费-阿尔巴尼亚地拉那-202603100040-11
   type: socks5
-  server: 206.123.156.201
-  port: 5005
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-12
-  type: socks5
   server: 206.123.156.254
   port: 8000
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-13
+- name: 免费-阿尔巴尼亚地拉那-202603100040-12
   type: socks5
   server: 206.123.156.199
   port: 5004
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-14
+- name: 免费-阿尔巴尼亚地拉那-202603100040-13
   type: socks5
   server: 206.123.156.221
   port: 5006
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-15
+- name: 免费-阿尔巴尼亚地拉那-202603100040-14
   type: socks5
   server: 206.123.156.226
   port: 8000
   udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-16
+- name: 免费-阿尔巴尼亚地拉那-202603100040-15
   type: socks5
   server: 206.123.156.220
   port: 5004
