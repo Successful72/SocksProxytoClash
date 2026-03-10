@@ -1,5 +1,5 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-11 01:53 CST
+# Auto-generated at 2026-03-11 03:00 CST
 # Total: 30 proxies
 
 proxies:
@@ -33,11 +33,6 @@ proxies:
   server: 14.226.84.201
   port: 5000
   udp: true
-- name: 免费-美国Dublin-202603101802
-  type: socks5
-  server: 18.218.19.49
-  port: 6000
-  udp: true
 - name: 免费-香港香港-202603101726
   type: socks5
   server: 45.196.216.10
@@ -47,26 +42,6 @@ proxies:
   type: socks5
   server: 163.44.197.192
   port: 1080
-  udp: true
-- name: 免费-马来西亚吉隆坡-202603101646
-  type: socks5
-  server: 43.217.14.91
-  port: 6000
-  udp: true
-- name: 免费-马来西亚吉隆坡-202603101646-01
-  type: socks5
-  server: 43.217.252.130
-  port: 6000
-  udp: true
-- name: 免费-马来西亚吉隆坡-202603101646-02
-  type: socks5
-  server: 43.217.140.41
-  port: 6000
-  udp: true
-- name: 免费-马来西亚吉隆坡-202603101646-03
-  type: socks5
-  server: 43.217.119.176
-  port: 6000
   udp: true
 - name: 免费-美国San Jose-202603101604
   type: socks5
@@ -152,4 +127,29 @@ proxies:
   type: socks5
   server: 43.226.60.63
   port: 10808
+  udp: true
+- name: 免费-荷兰格罗宁根-202603100314
+  type: socks5
+  server: 45.87.41.190
+  port: 9090
+  udp: true
+- name: 免费-美国凤凰城-202603100253
+  type: socks5
+  server: 89.116.187.221
+  port: 1080
+  udp: true
+- name: 免费-韩国Anyang-si-202603100150
+  type: socks5
+  server: 61.38.35.115
+  port: 1080
+  udp: true
+- name: 免费-美国堪薩斯城-202603100131
+  type: socks5
+  server: 83.136.51.83
+  port: 5001
+  udp: true
+- name: 免费-英国Pendlebury-202603100105
+  type: socks5
+  server: 64.176.183.231
+  port: 5000
   udp: true
