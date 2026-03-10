@@ -1,8 +1,18 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-10 13:53 CST
+# Auto-generated at 2026-03-10 15:01 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-爱尔兰都柏林-202603101354
+  type: socks5
+  server: 45.141.234.150
+  port: 1080
+  udp: true
+- name: 免费-德国法兰克福-202603101345
+  type: socks5
+  server: 46.101.250.196
+  port: 1080
+  udp: true
 - name: 免费-德国法兰克福-202603101332
   type: socks5
   server: 46.101.168.193
@@ -141,15 +151,5 @@ proxies:
 - name: 免费-阿尔巴尼亚地拉那-202603100040-03
   type: socks5
   server: 206.123.156.179
-  port: 5005
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-04
-  type: socks5
-  server: 206.123.156.182
-  port: 5004
-  udp: true
-- name: 免费-阿尔巴尼亚地拉那-202603100040-05
-  type: socks5
-  server: 206.123.156.208
   port: 5005
   udp: true
