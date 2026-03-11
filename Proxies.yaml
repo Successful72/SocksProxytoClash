@@ -1,8 +1,13 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-11 12:49 CST
+# Auto-generated at 2026-03-11 13:56 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-俄罗斯联邦鄂木斯克-202603111322
+  type: socks5
+  server: 92.124.136.63
+  port: 1080
+  udp: true
 - name: 免费-乌克兰Kyiv-202603111229
   type: socks5
   server: 62.182.85.58
@@ -146,10 +151,5 @@ proxies:
 - name: 免费-俄罗斯圣彼得堡-202603091844
   type: socks5
   server: 212.41.30.108
-  port: 10808
-  udp: true
-- name: 免费-俄罗斯联邦莫斯科-202603091844
-  type: socks5
-  server: 212.41.26.160
   port: 10808
   udp: true
