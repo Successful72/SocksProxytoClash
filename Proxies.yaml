@@ -1,8 +1,33 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-12 01:03 CST
+# Auto-generated at 2026-03-12 03:02 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-土耳其Ümraniye-202603120254
+  type: socks5
+  server: 178.210.168.89
+  port: 8080
+  udp: true
+- name: 免费-美国Dublin-202603120247
+  type: socks5
+  server: 3.135.222.168
+  port: 8000
+  udp: true
+- name: 免费-印度尼西亚茂物-202603120219
+  type: socks5
+  server: 103.127.133.72
+  port: 1080
+  udp: true
+- name: 免费-中国苏州市-202603120200
+  type: socks5
+  server: 112.86.207.130
+  port: 10808
+  udp: true
+- name: 免费-新加坡新加坡-202603120126
+  type: socks5
+  server: 52.77.25.91
+  port: 1080
+  udp: true
 - name: 免费-新加坡新加坡-202603112354
   type: socks5
   server: 206.189.38.51
@@ -118,11 +143,6 @@ proxies:
   server: 95.71.150.133
   port: 1080
   udp: true
-- name: 免费-美国Dublin-202603110536
-  type: socks5
-  server: 18.222.211.21
-  port: 8000
-  udp: true
 - name: 免费-英国伦敦-202603110402
   type: socks5
   server: 3.9.174.53
@@ -131,25 +151,5 @@ proxies:
 - name: 免费-德意志联邦共和国Offenbach Am Main-202603110017
   type: socks5
   server: 45.145.41.177
-  port: 1080
-  udp: true
-- name: 免费-越南清化市-202603101946
-  type: socks5
-  server: 14.226.84.201
-  port: 5000
-  udp: true
-- name: 免费-香港香港-202603101726
-  type: socks5
-  server: 45.196.216.10
-  port: 50161
-  udp: true
-- name: 免费-泰国曼谷-202603101704
-  type: socks5
-  server: 163.44.197.192
-  port: 1080
-  udp: true
-- name: 免费-爱尔兰都柏林-202603101354
-  type: socks5
-  server: 45.141.234.150
   port: 1080
   udp: true
