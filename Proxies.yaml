@@ -1,8 +1,38 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-13 07:35 CST
+# Auto-generated at 2026-03-13 10:42 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-中国西安-202603131037
+  type: socks5
+  server: 61.150.12.135
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦马格尼托哥尔斯克-202603131019
+  type: socks5
+  server: 5.164.58.153
+  port: 1080
+  udp: true
+- name: 免费-俄罗斯联邦圣彼得堡-202603130954
+  type: socks5
+  server: 188.68.205.126
+  port: 1080
+  udp: true
+- name: 免费-美国水牛城-202603130745
+  type: socks5
+  server: 192.3.34.156
+  port: 1080
+  udp: true
+- name: 免费-中国长沙-202603130742
+  type: socks5
+  server: 175.0.60.104
+  port: 1080
+  udp: true
+- name: 免费-美国洛杉矶-202603130741
+  type: socks5
+  server: 74.48.146.122
+  port: 5555
+  udp: true
 - name: 免费-越南河內市-202603130542
   type: socks5
   server: 113.23.7.217
@@ -122,34 +152,4 @@ proxies:
   type: socks5
   server: 14.239.99.181
   port: 5003
-  udp: true
-- name: 免费-土耳其Ümraniye-202603120254
-  type: socks5
-  server: 178.210.168.89
-  port: 8080
-  udp: true
-- name: 免费-新加坡新加坡-202603112318
-  type: socks5
-  server: 8.219.99.67
-  port: 8080
-  udp: true
-- name: 免费-德国格尔恩豪森-202603112307
-  type: socks5
-  server: 5.175.220.69
-  port: 1080
-  udp: true
-- name: 免费-美国圣克拉拉-202603112030
-  type: socks5
-  server: 24.144.86.173
-  port: 1080
-  udp: true
-- name: 免费-越南岘港-202603111855
-  type: socks5
-  server: 116.103.22.13
-  port: 5000
-  udp: true
-- name: 免费-香港香港-202603111720
-  type: socks5
-  server: 45.207.211.151
-  port: 1080
   udp: true
