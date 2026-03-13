@@ -1,8 +1,33 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-13 10:42 CST
+# Auto-generated at 2026-03-13 12:51 CST
 # Total: 30 proxies
 
 proxies:
+- name: 免费-荷兰阿姆斯特丹-202603131239
+  type: socks5
+  server: 194.113.153.77
+  port: 10808
+  udp: true
+- name: 免费-美国馬納薩斯-202603131226
+  type: socks5
+  server: 152.53.169.91
+  port: 8081
+  udp: true
+- name: 免费-中国大连-202603131149
+  type: socks5
+  server: 42.84.157.30
+  port: 10808
+  udp: true
+- name: 免费-中国杭州-202603131142
+  type: socks5
+  server: 36.24.150.115
+  port: 8888
+  udp: true
+- name: 免费-捷克布爾諾-202603131125
+  type: socks5
+  server: 37.46.209.156
+  port: 5555
+  udp: true
 - name: 免费-中国西安-202603131037
   type: socks5
   server: 61.150.12.135
@@ -36,11 +61,6 @@ proxies:
 - name: 免费-越南河內市-202603130542
   type: socks5
   server: 113.23.7.217
-  port: 1080
-  udp: true
-- name: 免费-韩国Anseong-202603130507
-  type: socks5
-  server: 14.34.140.180
   port: 1080
   udp: true
 - name: 免费-俄罗斯联邦新庫班斯克-202603130457
@@ -132,24 +152,4 @@ proxies:
   type: socks5
   server: 188.253.16.229
   port: 10001
-  udp: true
-- name: 免费-俄罗斯弗拉基米尔-202603120412
-  type: socks5
-  server: 109.201.65.228
-  port: 1080
-  udp: true
-- name: 免费-越南海防市-202603120321
-  type: socks5
-  server: 14.239.99.181
-  port: 5002
-  udp: true
-- name: 免费-越南海防市-202603120321-01
-  type: socks5
-  server: 14.239.99.181
-  port: 5001
-  udp: true
-- name: 免费-越南海防市-202603120321-02
-  type: socks5
-  server: 14.239.99.181
-  port: 5003
   udp: true
