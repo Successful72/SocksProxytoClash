@@ -1,5 +1,5 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-15 02:51 CST
+# Auto-generated at 2026-03-15 03:34 CST
 # Total: 30 proxies
 
 proxies:
@@ -12,21 +12,6 @@ proxies:
   type: socks5
   server: 3.142.47.33
   port: 8000
-  udp: true
-- name: 免费-俄罗斯联邦伏尔加格勒-202603142309
-  type: socks5
-  server: 88.87.93.235
-  port: 1080
-  udp: true
-- name: 免费-德国Frankfurt am Main-202603142303
-  type: socks5
-  server: 3.123.124.250
-  port: 6000
-  udp: true
-- name: 免费-英国伦敦-202603142247
-  type: socks5
-  server: 13.43.88.47
-  port: 1080
   udp: true
 - name: 免费-英国倫敦-202603142123
   type: socks5
@@ -43,11 +28,6 @@ proxies:
   server: 38.180.56.41
   port: 443
   udp: true
-- name: 免费-约旦安曼-202603141502
-  type: socks5
-  server: 176.28.201.76
-  port: 1080
-  udp: true
 - name: 免费-俄罗斯联邦Krasnoyarsk-202603141400
   type: socks5
   server: 192.145.96.180
@@ -63,64 +43,14 @@ proxies:
   server: 14.233.138.229
   port: 1080
   udp: true
-- name: 免费-新加坡新加坡-202603141133
-  type: socks5
-  server: 152.42.236.118
-  port: 1080
-  udp: true
-- name: 免费-香港下葵涌-202603140955
-  type: socks5
-  server: 111.92.243.185
-  port: 443
-  udp: true
 - name: 免费-荷兰阿姆斯特丹-202603140924
   type: socks5
   server: 93.183.68.41
   port: 1080
   udp: true
-- name: 免费-日本东京-202603140820
-  type: socks5
-  server: 47.79.37.120
-  port: 1080
-  udp: true
-- name: 免费-香港香港-202603140808
-  type: socks5
-  server: 45.149.92.147
-  port: 5001
-  udp: true
-- name: 免费-德国Falkenstein-202603140635
-  type: socks5
-  server: 176.9.35.189
-  port: 8888
-  udp: true
-- name: 免费-中国昆明-202603140558
-  type: socks5
-  server: 106.57.234.141
-  port: 10001
-  udp: true
 - name: 免费-韩国春川市-202603140437
   type: socks5
   server: 152.69.234.51
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202603140341
-  type: socks5
-  server: 89.189.74.177
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202603140341-01
-  type: socks5
-  server: 89.189.67.128
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202603140341-02
-  type: socks5
-  server: 89.189.72.254
-  port: 1080
-  udp: true
-- name: 免费-也门萨那-202603140340
-  type: socks5
-  server: 89.189.65.105
   port: 1080
   udp: true
 - name: 免费-美国達拉斯-202603140315
@@ -133,16 +63,6 @@ proxies:
   server: 38.146.28.249
   port: 40000
   udp: true
-- name: 免费-印度Mumbai-202603140138
-  type: socks5
-  server: 34.47.133.90
-  port: 1080
-  udp: true
-- name: 免费-英国倫敦金融城-202603132200
-  type: socks5
-  server: 206.123.156.225
-  port: 10000
-  udp: true
 - name: 免费-澳大利亚悉尼-202603132040
   type: socks5
   server: 3.25.240.198
@@ -152,4 +72,84 @@ proxies:
   type: socks5
   server: 184.174.96.81
   port: 1080
+  udp: true
+- name: 免费-美国西雅圖-202603131811
+  type: socks5
+  server: 155.94.160.199
+  port: 1081
+  udp: true
+- name: 免费-孟加拉达卡-202603131612
+  type: socks5
+  server: 123.0.25.156
+  port: 9090
+  udp: true
+- name: 免费-美国達拉斯-202603131349
+  type: socks5
+  server: 216.128.138.177
+  port: 1080
+  udp: true
+- name: 免费-印度孟买-202603131250
+  type: socks5
+  server: 38.76.203.138
+  port: 50161
+  udp: true
+- name: 免费-美国馬納薩斯-202603131226
+  type: socks5
+  server: 152.53.169.91
+  port: 8081
+  udp: true
+- name: 免费-俄罗斯联邦圣彼得堡-202603130954
+  type: socks5
+  server: 188.68.205.126
+  port: 1080
+  udp: true
+- name: 免费-美国洛杉矶-202603130741
+  type: socks5
+  server: 74.48.146.122
+  port: 5555
+  udp: true
+- name: 免费-香港下葵涌-202603130440
+  type: socks5
+  server: 64.118.132.244
+  port: 1080
+  udp: true
+- name: 免费-美国罗亚尔奥克-202603130440
+  type: socks5
+  server: 64.118.140.154
+  port: 1080
+  udp: true
+- name: 免费-香港旺角-202603122032
+  type: socks5
+  server: 45.119.97.69
+  port: 443
+  udp: true
+- name: 免费-美国昆西-202603122011
+  type: socks5
+  server: 74.179.60.85
+  port: 1080
+  udp: true
+- name: 免费-法国巴黎-202603121348
+  type: socks5
+  server: 45.134.13.8
+  port: 1080
+  udp: true
+- name: 免费-中国厦门市-202603121145
+  type: socks5
+  server: 36.249.129.110
+  port: 10808
+  udp: true
+- name: 免费-印度孟买-202603121109
+  type: socks5
+  server: 38.76.203.190
+  port: 5555
+  udp: true
+- name: 免费-中国南京-202603120857
+  type: socks5
+  server: 222.186.133.108
+  port: 1080
+  udp: true
+- name: 免费-拉脱维亚Riga-202603120638
+  type: socks5
+  server: 188.253.16.229
+  port: 10001
   udp: true
