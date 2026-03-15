@@ -1,5 +1,5 @@
 # Clash Meta Free Socks5 Proxies
-# Auto-generated at 2026-03-16 01:36 CST
+# Auto-generated at 2026-03-16 02:52 CST
 # Total: 30 proxies
 
 proxies:
@@ -78,11 +78,6 @@ proxies:
   server: 161.35.82.57
   port: 1080
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-02
-  type: socks5
-  server: 206.123.156.201
-  port: 5005
-  udp: true
 - name: 免费-荷兰阿姆斯特丹-202603151652-01
   type: socks5
   server: 45.88.174.1
@@ -98,7 +93,7 @@ proxies:
   server: 104.161.23.122
   port: 5003
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-03
+- name: 免费-英国倫敦金融城-202603151652-02
   type: socks5
   server: 206.123.156.193
   port: 5006
@@ -108,27 +103,27 @@ proxies:
   server: 85.198.98.179
   port: 1080
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-04
+- name: 免费-英国倫敦金融城-202603151652-03
   type: socks5
   server: 206.123.156.230
   port: 5001
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-05
+- name: 免费-英国倫敦金融城-202603151652-04
   type: socks5
   server: 206.123.156.204
   port: 5005
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-06
+- name: 免费-英国倫敦金融城-202603151652-05
   type: socks5
   server: 206.123.156.214
   port: 5004
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-07
+- name: 免费-英国倫敦金融城-202603151652-06
   type: socks5
   server: 206.123.156.219
   port: 5004
   udp: true
-- name: 免费-英国倫敦金融城-202603151652-08
+- name: 免费-英国倫敦金融城-202603151652-07
   type: socks5
   server: 206.123.156.196
   port: 5006
@@ -152,4 +147,9 @@ proxies:
   type: socks5
   server: 129.146.166.193
   port: 10001
+  udp: true
+- name: 免费-芬兰赫尔辛基-202603150948
+  type: socks5
+  server: 185.254.158.56
+  port: 1080
   udp: true
